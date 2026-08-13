@@ -1,0 +1,142 @@
+{
+  "items": [
+    {
+      "description": "🖼 Website🚀 KMP Library Wizard🍏 Compose Multiplatform App Wizard📋 Documentation❤️ Kotlin -> Swift Interopedia📜 Blog📺 YouTube🤩 Samples🗄 Jetpack Compose Components🗄 Compose Multiplatform Components🗄 Compose Material 3 Gallery🎨 Material Theme Builder📚 Kotlin Multiplatform by Tutorials📚 Simplifying Application Development with Kotlin Multiplatform Mobile",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Contents"
+    },
+    {
+      "description": "Kotlin Multiplatform plugin IntelliJ IDEA / Android Studio plugin\nCocoaPods integration\nkotlin-toolchain The Kotlin Toolchain is a unified entry point into Kotlin.\nMOKO KSwift gradle plugin\nSKIE gradle plugin\nCompleteKotlin gradle plugin\ngradle-buildconfig-plugin gradle plugin\nBuildKonfig gradle plugin\nKotlin Native Xcode Support\nDokka documentation generation tool\ncompose-stability-analyzer - composable stability plugin\nNucleus - Nucleus is the native desktop platform for the JVM.\nSwift Klib gradle plugin\nparcelize-darwin gradle plugin\nAboutLibraries gradle plugin\nPower-Assert gradle plugin\nTestBalloon Kotlin testing made easy, everywhere.\nValkyrie IntelliJ IDEA / Android Studio plugin\nKMPify migration tool",
+      "items": [],
+      "title": "🛠 Tooling"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "Napier - logger\nKermit - logger\nKmLogging - logger\nkotlin-logging - logger",
+      "items": [],
+      "title": "📋 Log"
+    },
+    {
+      "description": "Ktor - http client\nKtorfit - Retrofit for Kotlin Multiplatform on KTS\nApollo GraphQL - GraphQL client\nWebRTC KMP - WebRTC client\nKrossbow - WebSocket client\nMOKO SocketIo - Socket.IO implementation\nrsocket - RSocket Kotlin multi-platform implementation\nkt-search - Elasticsearch & OpenSearch client",
+      "items": [],
+      "title": "🌎 Network"
+    },
+    {
+      "description": "Multiplatform-Settings - Key-Value preferences\nKVault - secure key-value storage\nSQLDelight - SQLite database\nRealm - NoSQL database\nKotbase - NoSQL JSON document database\nKotlin Multiplatform AppDirs - User storage/settings/config directories for all platforms (desktop and Android)\nStore 5 - Kotlin Library for Async Data Loading and Caching\ncache4k - In-memory Cache\nSQLiter - SQLite driver\nSQLlin - Low-level API for SQLite in Kotlin Multiplatform\nKStore - File-based object storage\nKSafe - Encrypted key-value storage with Hardware-Backed Security\nUniversal-Cache - Kotlin caching and request sharing\nkotlin-cacheable - Annotation-based caching library",
+      "items": [],
+      "title": "📦 Storage"
+    },
+    {
+      "description": "MOKO Permissions - System permissions manager\nGrant - Permission library for Android & iOS\nAlert-KMP - Local and Native Notifications Library\nMOKO Geo - Location manager\nMOKO Biometry - System biometry manager\nMOKO Media - System media manager\nMediaPlayer-KMP - A Comprehensive Media Player for Kotlin Multiplatform\nKable - Coroutines-powered API for interacting with Bluetooth Low Energy devices.\nBlue-Falcon - A Bluetooth kotlin multiplatform library for iOS and Android\nKontrol - Debug menu\nKMPNotifier - Firebase Push Notification library for iOS and Android\nCompass - 🧭 Location toolkit for geocoding, geolocation, and autocomplete\nConnectivity - Retrieve and monitor internet connectivity\nkScan - Barcode Scanner\nAlarmee Alarm scheduler with local notifications.\nKamera - A camera library\nCamposer - Compose Multiplatform camera library for Android and iOS.\nCountryPicker-KMP - Country selection with Dial codes, Currencies, Flags and ISO codes\nKSensor - Live Sensors",
+      "items": [],
+      "title": "📱 Device"
+    },
+    {
+      "description": "Koin - DI framework\nKodein - DI framework\nkotlin-inject - DI framework\nKoject - KSP DI framework\nDI.kt - DI for kotlin multiplatform\nMetro - DI framework",
+      "items": [],
+      "title": "💉 Dependency Injection"
+    },
+    {
+      "description": "KmpEssentials\nEvas - Events and States for Kotlin\nMVI Kotlin - MVI framework\nOrbit MVI - MVI framework\nFlowMVI - Plugin-based MVI framework\nKMP-ObservableViewModel - KMP ViewModels\nVisualFSM - FSM-based MVI framework\nRedux Kotlin - Redux framework\nFlowRedux - Statemachine library with nice DSL\nMobius.kt - Mobius Framework\nMOKO MVVM - MVVM framework\nPremo — Presentation Model (aka View Model) and Navigation\nDecompose - componentization and navigation\nDecompose-Router - navigation\nBallast - State Management framework\nEssenty/Lifecycle - lifecycle handling in the Kotlin Multiplatform common code\nmultiplatform-paging - Pagination library for KMM by\nlazy-pagination-compose - Pagination library for Compose Multiplatform\nkmp-viewmodel - Kotlin Multiplatform ViewModel\nKStateMachine - Multiplatform state machine library with coroutines support\nRinku - Deep Link Handling for Kotlin Multiplatform\nResaca - Scope ViewModels to a Composable, surviving config. changes and navigation\nCircuit - Compose-driven architecture for Kotlin and Android applications.",
+      "items": [],
+      "title": "🏗 Architecture"
+    },
+    {
+      "description": "CrashKiOS - Crash reporting for Kotlin/Native iOS applications\nNSExceptionKt - Better crash reports on Apple platforms\ntrckr - KSP processor",
+      "items": [],
+      "title": "🔍 Analytics"
+    },
+    {
+      "description": "Kotest - test framework\nTestBalloon\nTurbine - test library\nMockingBird - test framework\nMockative - Mocking with KSP\nMocKMP - Mocking with KSP\nMokkery - Mocking library\nKLIP - Snapshot ((c|k)lip) manager for tests.\nAssertk - Fluent assertions library",
+      "items": [],
+      "title": "🩺 Test"
+    },
+    {
+      "description": "Signum - Crypto/PKI/ASN.1 Library\nCryptography-Kotlin - Type-safe Multiplatform cryptography library for Kotlin\nLibsodium - Libsodium bindings for Kotlin Multiplatform\nkorlibs-crypto - Pure Kotlin cryptography library\ncryptohash - A set of cryptographic (and not so cryptographic) hashing functions\nmurmurhash - library for hashing using MurmurHash\nDiglol Crypto - Diglol Crypto for Kotlin Multiplatform.\nKotlinCrypto/MACs - Message Authentication Code algorithms for Kotlin Multiplatform\nKotlinCrypto/hash - Cryptographic hash functions for Kotlin Multiplatform\nKotlinCrypto/secure-random - cryptographically secure random data from system sources",
+      "items": [],
+      "title": "🔑 Crypto"
+    },
+    {
+      "description": "kotlinx-io - Kotlin multiplatform I/O library\nOkio - access, store, and process your data\nkorlibs - access, store, and process your data\nSuparnatural FS - file system i/o\nFileKit - Pick and save Files, Medias and Folder\nKompress - Compression APIs for Kotlin Multiplatform",
+      "items": [],
+      "title": "📁 File"
+    },
+    {
+      "description": "Arrow - Functional companion to Kotlin's Standard Library\nResult - success/failure result\nApiResult - Declarative Error Handling\nSandwich - Handling API responses and exceptions in Kotlin for Retrofit, Ktor, Ktorfit",
+      "items": [],
+      "title": "🚀 Language extensions"
+    },
+    {
+      "description": "kotlinx.serialization - JSON serialization\nGhost Serializer - High-performance compile-time JSON serializer\nKsoup (fleeksoft) - HTML & XML Parser (Jsoup Alternative)\nXmlUtil - Component of the XMLUtil library\ntomlkt - Multiplatform TOML encoder and decoder, powered by kotlinx.serialization\nKsoup (MohamedRejeb) - Kotlin Multiplatform HTML Parser\nEssenty/Parcelable - @Parcelize annotation for Kotlin Multiplatform\nKotlin Object Notation - Lightweight DSL to build fluid JSON trees\nPbandk - Kotlin code generator and runtime for Protocol Buffers.",
+      "items": [],
+      "title": "🗃 Serializer"
+    },
+    {
+      "description": "Kotlinx DateTime - Date & Time library\nIsland Time - Date & Time library\nKronos Multiplatform - Network Time Protocol (NTP) client\nKCron - Kotlin multiplatform Cron library",
+      "items": [],
+      "title": "⏰ Date-Time"
+    },
+    {
+      "description": "Kotlinx Coroutines - Kotlin coroutines\nmolecule - Build a StateFlow stream using Jetpack Compose\nReaktive - Reactive Extensions\nKotlinx Atomicfu - atomic operations\nStately - Kotlin Multiplatform State Library\nkmp-resilient - Resilience patterns for suspend functions\nKMP-NativeCoroutines - Swift wrapper for Kotlin Coroutines\nFlowExt - Kotlinx Coroutines Flow Extensions\nHuman-Readable - A small set of data formatting utilities.",
+      "items": [],
+      "title": "➿ Asynchronous"
+    },
+    {
+      "description": "KuiklyUI - High-performance, full-platform development framework with unified codebase.",
+      "items": [],
+      "title": "🎨 UI Frameworks"
+    },
+    {
+      "description": "Appyx Navigation, transition animations, gestures, UI components.\nVoyager Compose Multiplatform Navigation.\nCalf Compose Adaptive Look & Feel\nCompose DND Compose Drag And Drop\nWindow Size Class Window Size Class\ncoil - Image loading for Compose Multiplatform.\nCompose-Imageloader Compose Image library for Kotlin Multiplatform.\nKamel Compose Multiplatform image loading.\nSketch Image loader for Compose Multiplatform\nCompose Icons Open Source icon packs for Compose Multiplatform.\nCompose Rich Editor Provides Rich Editor component for Compose Multiplatform.\nMaterial Theme Preferences Switching Dark/Light Material themes.\nDrag Select Compose Google Photos style drag-to-select multi-selection.\nMaterialKolor Generate Material3 color schemes from a seed color.\nCompose-placeholder Modifier for displaying 'placeholder' UI while content is loading.\nkmPalette A port of Androidx Palette, generate palettes from image.\nReveal Reveal effect for Compose Multiplatform\nCompose Media Player Multiplatform Compose Media Player\nKMP-ComposeUIViewController KMP-ComposeUIViewController.\nKodeView KodeView\nQRose - Multiplatform QR code generator\nrebugger - A recomposition debugger\nCompose WebView Multiplatform WebView for Compose Multiplatform\nKMP Maps Universal map component for Compose Multiplatform\nKMP Sharing Universal sharing function for Compose Multiplatform\nKMP Wheel Picker Modular wheel picker for Compose Multiplatform\nZoomImage Library for zoom images\npeekaboo - Image Picker Library for Compose Multiplatform\nFlexibleBottomSheet - Flexible BottomSheet library Compose Multiplatform\norbitral - Dynamic animation library for Compose Multiplatform\ncompose-stable-marker - Compose stable markers for KMP to tell stable/immutable guarantees\nWavy slider A dancing slider/progress bar.\nKoala Plot - A charting and plotting library for Compose Multiplatform.\nVico - A powerful and extensible multiplatform chart library\nPrecompose Compose Multiplatform Navigation.\nCompose Action Menu An easy-to-use action/overflow menu for Compose UI.\nKMPAuth Compose Multiplatform Authentication Library.\nKottie Compose Multiplatform Animation library.\nCarbon Compose - IBM's Carbon design system in Compose multiplatform.\nCompose Cupertino - Compose Multiplatform UI components for iOS.\nConstraintLayout Compose Multiplatform - ConstraintLayout Compose for Multiplatform.\nCompose Settings - Compose Settings.\nmaterial-motion-compose - Material Motion for Compose Multiplatform\nTiamat - Compose Multiplatform navigation library.\nLandscapist: Compose image loading library for Kotlin Multiplatform.\ncolorpicker-compose: Color Picker library for Kotlin Multiplatform.\nCalendar: Calendar library for Kotlin Multiplatform.\nCompose Unstyled: Unstyled components for Compose Multiplatform.\nlumo-ui: A Gradle plugin to build your Compose component library.\ncompose-fluent-ui: Fluent Design UI library for Compose Multiplatform.\nCraftD: Server Driven UI Library for Compose Multiplatform.\nLumen - Compose Multiplatform coachmark library.\nComposeCollapsingTopBar - Compose Multiplatform collapsing toolbar\nswipe - Swipe gesture actions\nSwipeable-KMP - swipeable component.\nhyphen - markdown editor\ncompose-pinch-grid - pinch-to-resize grid for Compose Multiplatform\ncascade-editor - rich text editor for Compose Multiplatform\nRikkaUi - RikkaUI design system.\nTable-KMP - Data grid for Compose Multiplatform\nComposePdfReader - PDF rendering and text-extraction for Compose Multiplatform\ncompose-alert-banner - Alert banner for Compose\ncharts - Charts for Compose Multiplatform\nKMPLiquidGlass - Liquid Glass effect for Compose Multiplatform\nHaze - Visual effects (blur and more) for Compose Multiplatform\nMultiplatform Markdown Renderer - Markdown renderer for Compose Multiplatform\nDrawBox - Canvas drawing library\nLazySurface - A lazy 2D-plane layout for Compose Multiplatform",
+      "items": [],
+      "title": "🍎 Compose UI"
+    },
+    {
+      "description": "MOKO Graphics - Graphics primitives\nvibrance - Natural color mixing for Kotlin and Compose Multiplatform.",
+      "items": [],
+      "title": "🎨 Graphics"
+    },
+    {
+      "description": "Firebase Kotlin SDK - A Kotlin-first SDK for Firebase\nsupabase-kt - KMP Client for Supabase\nopenai-kotlin - OpenAI SDK\nSentry SDK - Sentry Kotlin Multiplatform SDK\nbitcoin-kmp - Kotlin Multiplatform Bitcoin Library\nqBittorrent - wrapper for the qBittorrent Web API\nCognito-idp - AWS Cognito Identity Provider\nTMDb API - access to TMDb API\nGrowth Book SDK - GrowthBook Kotlin SDK\nConfigCat - Kotlin Multiplatform SDK for ConfigCat",
+      "items": [],
+      "title": "🧩 Service SDK"
+    },
+    {
+      "description": "BigNum - Big Numbers",
+      "items": [],
+      "title": "🧮 Arithmetic"
+    },
+    {
+      "description": "Libres - Resources manager.\nMOKO Resources - System resources manager\nKotlinx-Resources - text resources manager",
+      "items": [],
+      "title": "🛢 Resources"
+    },
+    {
+      "description": "Uri KMP - A library for working with URIs in Kotlin Multiplatform\nByteBuffer - Kotlin Multiplatform bytebuffer/byte[] wrapper\nzipline - Run Kotlin/JS libraries in Kotlin/JVM and Kotlin/Native programs\nKase64 - Base64 encoder/decoder\nColormath - Multiplatform Kotlin color conversion and manipulation\nGEOK - Kotlin geometry library\nFuzzyKot - Fuzzy string matching\nkotlin-semver - Semantic versioning\nKim - Kotlin Image Metadata\nXMP Core for Kotlin Multiplatform - Kotlin Multiplatform port of Adobe's XMP SDK\nHighlights - Kotlin Multiplatform syntax highlighting engine\nKMPUtils - Kotlin STL Extensions & Utils\nRSSParser - A Kotlin Multiplatform library to parse a RSS Feed\nJsonPathKt - A lighter and more efficient implementation of JsonPath in Kotlin Multiplatform\nkotlin-csv - Pure Kotlin CSV Reader/Writer",
+      "items": [],
+      "title": "🔧 Utils"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:30:26.909Z",
+    "original_repository": "terrakok/kmp-awesome",
+    "original_repository_sha": "11134273e177939ff6b215a0b5c9ee56565ce0ba",
+    "enhanced_repository": "enhansome/kmp-enhansome",
+    "enhanced_repository_description": null,
+    "title": "Awesome Kotlin Multiplatform with stars"
+  }
+}
