@@ -2,9 +2,9 @@
 
 <img src="https://github.com/terrakok/kmp-awesome/raw/master/img/multiplatform-sharing.svg" align="center" width="400"/>
 
-[![Pull request](https://img.shields.io/badge/PRs-welcome-success?style=flat)](https://github.com/terrakok/kmp-awesome/pulls) ⭐ 5,841 | 🐛 24 | 📅 2026-07-22
+[![Pull request](https://img.shields.io/badge/PRs-welcome-success?style=flat)](https://github.com/terrakok/kmp-awesome/pulls) ⭐ 5,842 | 🐛 24 | 📅 2026-07-22
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub Repo stars](https://img.shields.io/github/stars/terrakok/kmp-awesome?style=flat)](https://github.com/terrakok/kmp-awesome) ⭐ 5,841 | 🐛 24 | 📅 2026-07-22
+[![GitHub Repo stars](https://img.shields.io/github/stars/terrakok/kmp-awesome?style=flat)](https://github.com/terrakok/kmp-awesome) ⭐ 5,842 | 🐛 24 | 📅 2026-07-22
 [![Maven Central](https://img.shields.io/maven-central/v/org.jetbrains.kotlin/kotlin-maven-plugin.svg)](https://central.sonatype.com/search?q=g%3Aorg.jetbrains.kotlin)
 
 Kotlin Multiplatform technology simplifies the development of cross-platform projects.
@@ -79,7 +79,7 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > Kotlin/Native provides integration with the CocoaPods dependency manager. You can add dependencies on Pod libraries as well as use a multiplatform project with native targets as a CocoaPods dependency (Kotlin Pod).
 
-[kotlin-toolchain](https://github.com/JetBrains/kotlin-toolchain) ⭐ 370 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-22 The Kotlin Toolchain is a unified entry point into Kotlin.
+[kotlin-toolchain](https://github.com/JetBrains/kotlin-toolchain) ⭐ 371 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-24 The Kotlin Toolchain is a unified entry point into Kotlin.
 [![GitHub Repo stars](https://img.shields.io/github/stars/JetBrains/amper?style=flat)](https://github.com/JetBrains/amper) ⚠️ Archived
 
 > A set of tools for the Kotlin language, with a focus on user experience and tooling
@@ -104,8 +104,8 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > A plugin for generating BuildConstants for any kind of Gradle projects: Java, Kotlin, Groovy, etc. Designed for KTS scripts.
 
-[BuildKonfig](https://github.com/yshrsmz/BuildKonfig) ⭐ 1,208 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-23 gradle plugin
-[![GitHub Repo stars](https://img.shields.io/github/stars/yshrsmz/BuildKonfig?style=flat)](https://github.com/yshrsmz/BuildKonfig) ⭐ 1,208 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-23
+[BuildKonfig](https://github.com/yshrsmz/BuildKonfig) ⭐ 1,208 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-24 gradle plugin
+[![GitHub Repo stars](https://img.shields.io/github/stars/yshrsmz/BuildKonfig?style=flat)](https://github.com/yshrsmz/BuildKonfig) ⭐ 1,208 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-24
 
 > BuildConfig for Kotlin Multiplatform Project
 
@@ -114,18 +114,18 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > Plugin to facilitate debugging iOS applications using Kotlin Native in Xcode. Defines Kotlin files as source code, with basic highlighting. Allows you to set breakpoints and includes llvm support to view data in the debug window. Xcode does not officially support custom language definitions, but they also don't explicitly block them.
 
-[Dokka](https://github.com/Kotlin/dokka) ⭐ 3,803 | 🐛 670 | 🌐 Kotlin | 📅 2026-08-21 documentation generation tool
-[![GitHub Repo stars](https://img.shields.io/github/stars/Kotlin/dokka?style=flat)](https://github.com/Kotlin/dokka) ⭐ 3,803 | 🐛 670 | 🌐 Kotlin | 📅 2026-08-21
+[Dokka](https://github.com/Kotlin/dokka) ⭐ 3,803 | 🐛 671 | 🌐 Kotlin | 📅 2026-08-21 documentation generation tool
+[![GitHub Repo stars](https://img.shields.io/github/stars/Kotlin/dokka?style=flat)](https://github.com/Kotlin/dokka) ⭐ 3,803 | 🐛 671 | 🌐 Kotlin | 📅 2026-08-21
 
 > Dokka is a documentation engine for Kotlin, performing the same function as javadoc for Java. Just like Kotlin itself, Dokka fully supports mixed-language Java/Kotlin projects. It understands standard Javadoc comments in Java files and KDoc comments in Kotlin files, and can generate documentation in multiple formats including standard Javadoc, HTML and Markdown.
 
-[compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer) ⭐ 1,635 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-22 - composable stability plugin
-[![GitHub Repo stars](https://img.shields.io/github/stars/skydoves/compose-stability-analyzer?style=flat)](https://github.com/skydoves/compose-stability-analyzer) ⭐ 1,635 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-22
+[compose-stability-analyzer](https://github.com/skydoves/compose-stability-analyzer) ⭐ 1,634 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-22 - composable stability plugin
+[![GitHub Repo stars](https://img.shields.io/github/stars/skydoves/compose-stability-analyzer?style=flat)](https://github.com/skydoves/compose-stability-analyzer) ⭐ 1,634 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-22
 
 > 🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ.
 
-[Nucleus](https://github.com/NucleusFramework/Nucleus) ⭐ 338 | 🐛 40 | 🌐 Kotlin | 📅 2026-08-20 - Nucleus is the native desktop platform for the JVM.
-[![GitHub Repo stars](https://img.shields.io/github/stars/NucleusFramework/Nucleus?style=flat)](https://github.com/NucleusFramework/Nucleus) ⭐ 338 | 🐛 40 | 🌐 Kotlin | 📅 2026-08-20
+[Nucleus](https://github.com/NucleusFramework/Nucleus) ⭐ 337 | 🐛 40 | 🌐 Kotlin | 📅 2026-08-20 - Nucleus is the native desktop platform for the JVM.
+[![GitHub Repo stars](https://img.shields.io/github/stars/NucleusFramework/Nucleus?style=flat)](https://github.com/NucleusFramework/Nucleus) ⭐ 337 | 🐛 40 | 🌐 Kotlin | 📅 2026-08-20
 [![Maven Central](https://img.shields.io/maven-central/v/dev.nucleusframework/nucleus.nucleus-application)](https://central.sonatype.com/artifact/dev.nucleusframework/nucleus.nucleus-application)
 
 > Nucleus is the native desktop platform for the JVM. Combined with Compose Multiplatform, it forms the most complete, most performant, and most deeply integrated desktop application stack ever built — on any language, any runtime, any platform.
@@ -140,13 +140,13 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > Kotlin/Native compiler plugin that generates Parcelable implementations for Darwin (Apple) targets. Allows writing Parcelable classes for all Darwin targets, similary to the Android's kotlin-parcelize plugin. Can be also used together with the kotlin-parcelize plugin to write Parcelable classes in the commonMain source set.
 
-[AboutLibraries](https://github.com/mikepenz/AboutLibraries) ⭐ 4,415 | 🐛 5 | 🌐 Kotlin | 📅 2026-08-23 gradle plugin
-[![GitHub Repo stars](https://img.shields.io/github/stars/mikepenz/AboutLibraries?style=flat)](https://github.com/mikepenz/AboutLibraries) ⭐ 4,415 | 🐛 5 | 🌐 Kotlin | 📅 2026-08-23
+[AboutLibraries](https://github.com/mikepenz/AboutLibraries) ⭐ 4,415 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-24 gradle plugin
+[![GitHub Repo stars](https://img.shields.io/github/stars/mikepenz/AboutLibraries?style=flat)](https://github.com/mikepenz/AboutLibraries) ⭐ 4,415 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-24
 
 > Collects all dependencies and licenses of gradle projects (Kotlin Multiplatform) and provides an easy to integrate Attribution / Open Source library UI to integrate in Compose / Android targets.
 
 [Power-Assert](https://kotlinlang.org/docs/power-assert.html) gradle plugin
-[![GitHub Repo stars](https://img.shields.io/github/stars/JetBrains/kotlin?style=flat)](https://github.com/JetBrains/kotlin/tree/master/plugins/power-assert) ⭐ 53,352 | 🐛 411 | 🌐 Kotlin | 📅 2026-08-24
+[![GitHub Repo stars](https://img.shields.io/github/stars/JetBrains/kotlin?style=flat)](https://github.com/JetBrains/kotlin/tree/master/plugins/power-assert) ⭐ 53,353 | 🐛 417 | 🌐 Kotlin | 📅 2026-08-24
 
 > The Kotlin Power-assert compiler plugin improves the debugging experience by providing detailed failure messages with contextual information. It simplifies the process of writing tests by automatically generating intermediate values in failure messages. It helps you understand why a test failed without needing complex assertion libraries.
 
@@ -175,8 +175,8 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > Napier is a logger library for Kotlin Multiplatform. It supports for the Android, Darwin(iOS, macOS, watchOS, tvOS), JVM, JavaScript. Logs written in common module are displayed on logger viewer of each platform.
 
-[Kermit](https://github.com/touchlab/Kermit) ⭐ 1,023 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-21 - logger
-[![GitHub Repo stars](https://img.shields.io/github/stars/touchlab/Kermit?style=flat)](https://github.com/touchlab/Kermit) ⭐ 1,023 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-21
+[Kermit](https://github.com/touchlab/Kermit) ⭐ 1,023 | 🐛 11 | 🌐 Kotlin | 📅 2026-08-24 - logger
+[![GitHub Repo stars](https://img.shields.io/github/stars/touchlab/Kermit?style=flat)](https://github.com/touchlab/Kermit) ⭐ 1,023 | 🐛 11 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/co.touchlab/kermit)](https://central.sonatype.com/artifact/co.touchlab/kermit)
 
 > Kermit is a Kotlin Multiplatform logging utility with composable log outputs. The library provides prebuilt loggers for outputting to platform logging tools such as Logcat and NSLog.
@@ -187,28 +187,28 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > Kotlin multiplatform logging. High performance, composable and simple to use.
 
-[kotlin-logging](https://github.com/oshai/kotlin-logging) ⭐ 3,106 | 🐛 21 | 🌐 Kotlin | 📅 2026-05-27 - logger
-[![GitHub Repo stars](https://img.shields.io/github/stars/oshai/kotlin-logging?style=flat)](https://github.com/oshai/kotlin-logging) ⭐ 3,106 | 🐛 21 | 🌐 Kotlin | 📅 2026-05-27
+[kotlin-logging](https://github.com/oshai/kotlin-logging) ⭐ 3,107 | 🐛 21 | 🌐 Kotlin | 📅 2026-05-27 - logger
+[![GitHub Repo stars](https://img.shields.io/github/stars/oshai/kotlin-logging?style=flat)](https://github.com/oshai/kotlin-logging) ⭐ 3,107 | 🐛 21 | 🌐 Kotlin | 📅 2026-05-27
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.oshai/kotlin-logging)](https://central.sonatype.com/artifact/io.github.oshai/kotlin-logging)
 
 > Lightweight Multiplatform logging framework for Kotlin, written in Pure Kotlin. A convenient and performant logging facade.
 
 ### 🌎 Network
 
-[Ktor](https://github.com/ktorio/ktor) ⭐ 14,499 | 🐛 178 | 🌐 Kotlin | 📅 2026-08-21 - http client
-[![GitHub Repo stars](https://img.shields.io/github/stars/ktorio/ktor?style=flat)](https://github.com/ktorio/ktor) ⭐ 14,499 | 🐛 178 | 🌐 Kotlin | 📅 2026-08-21
+[Ktor](https://github.com/ktorio/ktor) ⭐ 14,499 | 🐛 180 | 🌐 Kotlin | 📅 2026-08-24 - http client
+[![GitHub Repo stars](https://img.shields.io/github/stars/ktorio/ktor?style=flat)](https://github.com/ktorio/ktor) ⭐ 14,499 | 🐛 180 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/io.ktor/ktor)](https://central.sonatype.com/artifact/io.ktor)
 
 > Ktor includes a multiplatform asynchronous HTTP client, which allows you to make requests and handle responses, extend its functionality with plugins (formerly known as features), such as authentication, JSON serialization, and so on.
 
-[Ktorfit](https://github.com/Foso/Ktorfit) ⭐ 2,079 | 🐛 62 | 🌐 Kotlin | 📅 2026-08-12 - Retrofit for Kotlin Multiplatform on KTS
-[![GitHub Repo stars](https://img.shields.io/github/stars/Foso/Ktorfit?style=flat)](https://github.com/Foso/Ktorfit) ⭐ 2,079 | 🐛 62 | 🌐 Kotlin | 📅 2026-08-12
+[Ktorfit](https://github.com/Foso/Ktorfit) ⭐ 2,079 | 🐛 62 | 🌐 Kotlin | 📅 2026-08-24 - Retrofit for Kotlin Multiplatform on KTS
+[![GitHub Repo stars](https://img.shields.io/github/stars/Foso/Ktorfit?style=flat)](https://github.com/Foso/Ktorfit) ⭐ 2,079 | 🐛 62 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/de.jensklingenberg.ktorfit/ktorfit-lib)](https://central.sonatype.com/artifact/de.jensklingenberg.ktorfit/ktorfit-lib)
 
 > HTTP client / Kotlin Symbol Processor for Kotlin Multiplatform (Android,Js, Jvm , Native, iOS) using KSP and Ktor clients inspired by Retrofit <https://foso.github.io/Ktorfit>
 
-[Apollo GraphQL](https://github.com/apollographql/apollo-android) ⭐ 3,973 | 🐛 108 | 🌐 Kotlin | 📅 2026-08-21 - GraphQL client
-[![GitHub Repo stars](https://img.shields.io/github/stars/apollographql/apollo-android?style=flat)](https://github.com/apollographql/apollo-android) ⭐ 3,973 | 🐛 108 | 🌐 Kotlin | 📅 2026-08-21
+[Apollo GraphQL](https://github.com/apollographql/apollo-android) ⭐ 3,972 | 🐛 109 | 🌐 Kotlin | 📅 2026-08-21 - GraphQL client
+[![GitHub Repo stars](https://img.shields.io/github/stars/apollographql/apollo-android?style=flat)](https://github.com/apollographql/apollo-android) ⭐ 3,972 | 🐛 109 | 🌐 Kotlin | 📅 2026-08-21
 [![Maven Central](https://img.shields.io/maven-central/v/com.apollographql.apollo3/apollo-runtime)](https://central.sonatype.com/artifact/com.apollographql.apollo3/apollo-runtime)
 
 > A strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform.
@@ -257,8 +257,8 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > It acts as an iOS Keychain wrapper and implements encrypted SharedPreferences for Android.
 
-[SQLDelight](https://github.com/cashapp/sqldelight) ⭐ 6,862 | 🐛 365 | 🌐 Kotlin | 📅 2026-08-21 - SQLite database
-[![GitHub Repo stars](https://img.shields.io/github/stars/cashapp/sqldelight?style=flat)](https://github.com/cashapp/sqldelight) ⭐ 6,862 | 🐛 365 | 🌐 Kotlin | 📅 2026-08-21
+[SQLDelight](https://github.com/cashapp/sqldelight) ⭐ 6,862 | 🐛 366 | 🌐 Kotlin | 📅 2026-08-21 - SQLite database
+[![GitHub Repo stars](https://img.shields.io/github/stars/cashapp/sqldelight?style=flat)](https://github.com/cashapp/sqldelight) ⭐ 6,862 | 🐛 366 | 🌐 Kotlin | 📅 2026-08-21
 [![Maven Central](https://img.shields.io/maven-central/v/com.squareup.sqldelight/com.squareup.sqldelight.gradle.plugin)](https://central.sonatype.com/artifact/com.squareup.sqldelight/com.squareup.sqldelight.gradle.plugin)
 
 > SQLDelight generates typesafe kotlin APIs from your SQL statements. It verifies your schema, statements, and migrations at compile-time and provides IDE features like autocomplete and refactoring which make writing and maintaining SQL simple.
@@ -281,8 +281,8 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > Get app data directory in all desktops (Linux/Mac/Windows) as well as user-scoped data directory on Android
 
-[Store 5](https://github.com/MobileNativeFoundation/Store) ⭐ 3,415 | 🐛 59 | 🌐 Kotlin | 📅 2026-08-19 - Kotlin Library for Async Data Loading and Caching
-[![GitHub Repo stars](https://img.shields.io/github/stars/MobileNativeFoundation/Store?style=flat)](https://github.com/MobileNativeFoundation/Store) ⭐ 3,415 | 🐛 59 | 🌐 Kotlin | 📅 2026-08-19
+[Store 5](https://github.com/MobileNativeFoundation/Store) ⭐ 3,415 | 🐛 59 | 🌐 Kotlin | 📅 2026-08-24 - Kotlin Library for Async Data Loading and Caching
+[![GitHub Repo stars](https://img.shields.io/github/stars/MobileNativeFoundation/Store?style=flat)](https://github.com/MobileNativeFoundation/Store) ⭐ 3,415 | 🐛 59 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/org.mobilenativefoundation.store/store5)](https://central.sonatype.com/artifact/org.mobilenativefoundation.store/store5)
 
 > A Store is responsible for managing a particular data request. When you create an implementation of a Store, you provide it with a Fetcher, a function that defines how data will be fetched over network. You can also define how your Store will cache data in-memory and on-disk.
@@ -373,14 +373,14 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > **Features**: Platform-agnostic support for Android, iOS, Web, and Desktop. Compose Multiplatform integration, YouTube video and audio playback, streaming support, event handling, ReelsView support, AutoPlay, and Authentication Token implementation.
 
-[Kable](https://github.com/juullabs/kable) ⭐ 1,184 | 🐛 57 | 🌐 Kotlin | 📅 2026-08-21 - Coroutines-powered API for interacting with Bluetooth Low Energy devices.
-[![GitHub Repo stars](https://img.shields.io/github/stars/juullabs/kable?style=flat)](https://github.com/juullabs/kable) ⭐ 1,184 | 🐛 57 | 🌐 Kotlin | 📅 2026-08-21
+[Kable](https://github.com/juullabs/kable) ⭐ 1,184 | 🐛 60 | 🌐 Kotlin | 📅 2026-08-24 - Coroutines-powered API for interacting with Bluetooth Low Energy devices.
+[![GitHub Repo stars](https://img.shields.io/github/stars/juullabs/kable?style=flat)](https://github.com/juullabs/kable) ⭐ 1,184 | 🐛 60 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/com.juul.kable/kable-core)](https://central.sonatype.com/artifact/com.juul.kable/kable-core/)
 
 > Kotlin Asynchronous Bluetooth Low Energy provides a simple Coroutines-powered API for interacting with Bluetooth Low Energy devices.
 
-[Blue-Falcon](https://github.com/Reedyuk/blue-falcon) ⭐ 484 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-18 - A Bluetooth kotlin multiplatform library for iOS and Android
-[![GitHub Repo stars](https://img.shields.io/github/stars/Reedyuk/blue-falcon?style=flat)](https://github.com/Reedyuk/blue-falcon) ⭐ 484 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-18
+[Blue-Falcon](https://github.com/Reedyuk/blue-falcon) ⭐ 486 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-18 - A Bluetooth kotlin multiplatform library for iOS and Android
+[![GitHub Repo stars](https://img.shields.io/github/stars/Reedyuk/blue-falcon?style=flat)](https://github.com/Reedyuk/blue-falcon) ⭐ 486 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-18
 [![Maven Central](https://img.shields.io/maven-central/v/dev.bluefalcon/blue-falcon-rpi)](https://central.sonatype.com/artifact/dev.bluefalcon/blue-falcon-rpi)
 
 > A Bluetooth "Cross Platform" Kotlin Multiplatform library for iOS, Android, MacOS, Raspberry Pi and Javascript.
@@ -398,14 +398,14 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > Kotlin Multiplatform Push Notification Library using Firebase for iOS and Android.
 
-[Compass](https://github.com/jordond/compass) ⭐ 445 | 🐛 17 | 🌐 Kotlin | 📅 2026-08-23 - 🧭 Location toolkit for geocoding, geolocation, and autocomplete
-[![GitHub Repo stars](https://img.shields.io/github/stars/jordond/compass?style=flat)](https://github.com/jordond/compass) ⭐ 445 | 🐛 17 | 🌐 Kotlin | 📅 2026-08-23
+[Compass](https://github.com/jordond/compass) ⭐ 445 | 🐛 18 | 🌐 Kotlin | 📅 2026-08-24 - 🧭 Location toolkit for geocoding, geolocation, and autocomplete
+[![GitHub Repo stars](https://img.shields.io/github/stars/jordond/compass?style=flat)](https://github.com/jordond/compass) ⭐ 445 | 🐛 18 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/dev.jordond.compass/core)](https://central.sonatype.com/namespace/dev.jordond.compass)
 
 > Compass is a Kotlin Multiplatform library location toolkit. It provides a set of tools for working with location data, including geocoding, reverse geocoding, and more.
 
-[Connectivity](https://github.com/jordond/connectivity) ⭐ 742 | 🐛 7 | 🌐 Kotlin | 📅 2026-08-20 - Retrieve and monitor internet connectivity
-[![GitHub Repo stars](https://img.shields.io/github/stars/jordond/connectivity?style=flat)](https://github.com/jordond/connectivity) ⭐ 742 | 🐛 7 | 🌐 Kotlin | 📅 2026-08-20
+[Connectivity](https://github.com/jordond/connectivity) ⭐ 741 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-24 - Retrieve and monitor internet connectivity
+[![GitHub Repo stars](https://img.shields.io/github/stars/jordond/connectivity?style=flat)](https://github.com/jordond/connectivity) ⭐ 741 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/dev.jordond.connectivity/connectivity-core)](https://central.sonatype.com/namespace/dev.jordond.connectivity)
 
 > Connectivity provides network monitoring capabilities for multiplatform projects. It can monitor network connectivity using native APIs on Android and Apple devices, or by making HTTP requests to specified hosts.
@@ -448,8 +448,8 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 ### 💉 Dependency Injection
 
-[Koin](https://github.com/InsertKoinIO/koin) ⭐ 10,012 | 🐛 74 | 🌐 Kotlin | 📅 2026-06-15 - DI framework
-[![GitHub Repo stars](https://img.shields.io/github/stars/InsertKoinIO/koin?style=flat)](https://github.com/InsertKoinIO/koin) ⭐ 10,012 | 🐛 74 | 🌐 Kotlin | 📅 2026-06-15
+[Koin](https://github.com/InsertKoinIO/koin) ⭐ 10,013 | 🐛 74 | 🌐 Kotlin | 📅 2026-06-15 - DI framework
+[![GitHub Repo stars](https://img.shields.io/github/stars/InsertKoinIO/koin?style=flat)](https://github.com/InsertKoinIO/koin) ⭐ 10,013 | 🐛 74 | 🌐 Kotlin | 📅 2026-06-15
 [![Maven Central](https://img.shields.io/maven-central/v/io.insert-koin/koin-core)](https://central.sonatype.com/artifact/io.insert-koin/koin-core)
 
 > A pragmatic lightweight dependency injection framework for Kotlin developers. Koin is a DSL, a light container and a pragmatic API
@@ -478,8 +478,8 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > Simple DI with compile-time dependency graph validation for kotlin multiplatform. It uses IR to create method's bodies with dependency injection.
 
-[Metro](https://github.com/ZacSweers/metro) ⭐ 1,370 | 🐛 17 | 🌐 Kotlin | 📅 2026-08-24 - DI framework
-[![GitHub Repo stars](https://img.shields.io/github/stars/ZacSweers/metro?style=flat)](https://github.com/ZacSweers/metro) ⭐ 1,370 | 🐛 17 | 🌐 Kotlin | 📅 2026-08-24
+[Metro](https://github.com/ZacSweers/metro) ⭐ 1,370 | 🐛 19 | 🌐 Kotlin | 📅 2026-08-24 - DI framework
+[![GitHub Repo stars](https://img.shields.io/github/stars/ZacSweers/metro?style=flat)](https://github.com/ZacSweers/metro) ⭐ 1,370 | 🐛 19 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/dev.zacsweers.metro/dev.zacsweers.metro.gradle.plugin)](https://central.sonatype.com/artifact/dev.zacsweers.metro/dev.zacsweers.metro.gradle.plugin)
 
 > Kotlin compiler plugin–based DI combining ideas from Dagger, Anvil, and Kotlin‑Inject with added features.
@@ -529,14 +529,14 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > VisualFSM is a Kotlin Multiplatform library for implements an FSM-based (Finite-state machine) MVI pattern and a set of tools for visualization and analysis of FSM's diagram of states.
 
-[Redux Kotlin](https://github.com/reduxkotlin/redux-kotlin) ⭐ 511 | 🐛 28 | 🌐 Kotlin | 📅 2026-08-20 - Redux framework
-[![GitHub Repo stars](https://img.shields.io/github/stars/reduxkotlin/redux-kotlin?style=flat)](https://github.com/reduxkotlin/redux-kotlin) ⭐ 511 | 🐛 28 | 🌐 Kotlin | 📅 2026-08-20
+[Redux Kotlin](https://github.com/reduxkotlin/redux-kotlin) ⭐ 511 | 🐛 28 | 🌐 Kotlin | 📅 2026-08-24 - Redux framework
+[![GitHub Repo stars](https://img.shields.io/github/stars/reduxkotlin/redux-kotlin?style=flat)](https://github.com/reduxkotlin/redux-kotlin) ⭐ 511 | 🐛 28 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/org.reduxkotlin/redux-kotlin-threadsafe)](https://central.sonatype.com/artifact/org.reduxkotlin/redux-kotlin-threadsafe)
 
 > Redux implementation for Kotlin (supports multiplatform JVM, native, JS, WASM)
 
-[FlowRedux](https://github.com/freeletics/FlowRedux) ⭐ 784 | 🐛 9 | 🌐 Kotlin | 📅 2026-08-19 - Statemachine library with nice DSL
-[![GitHub Repo stars](https://img.shields.io/github/stars/freeletics/FlowRedux?style=flat)](https://github.com/freeletics/FlowRedux) ⭐ 784 | 🐛 9 | 🌐 Kotlin | 📅 2026-08-19
+[FlowRedux](https://github.com/freeletics/FlowRedux) ⭐ 784 | 🐛 10 | 🌐 Kotlin | 📅 2026-08-24 - Statemachine library with nice DSL
+[![GitHub Repo stars](https://img.shields.io/github/stars/freeletics/FlowRedux?style=flat)](https://github.com/freeletics/FlowRedux) ⭐ 784 | 🐛 10 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/com.freeletics.flowredux/flowredux)](https://central.sonatype.com/artifact/com.freeletics.flowredux/flowredux)
 
 > Building async. running Kotlin Multiplatform state machine made easy with a DSL and coroutines.
@@ -607,8 +607,8 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > KStateMachine is a Kotlin DSL library for creating state machines and statecharts.
 
-[Rinku](https://github.com/theolm/Rinku) ⭐ 180 | 🐛 13 | 🌐 Kotlin | 📅 2026-08-19 - Deep Link Handling for Kotlin Multiplatform
-[![GitHub Repo stars](https://img.shields.io/github/stars/theolm/Rinku?style=flat)](https://github.com/theolm/Rinku) ⭐ 180 | 🐛 13 | 🌐 Kotlin | 📅 2026-08-19
+[Rinku](https://github.com/theolm/Rinku) ⭐ 180 | 🐛 13 | 🌐 Kotlin | 📅 2026-08-24 - Deep Link Handling for Kotlin Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/theolm/Rinku?style=flat)](https://github.com/theolm/Rinku) ⭐ 180 | 🐛 13 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/dev.theolm/rinku)](https://mvnrepository.com/artifact/dev.theolm)
 
 > A Kotlin Multiplatform library for deeplink handling
@@ -619,8 +619,8 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > Scope ViewModels (or plain objects) to a Composable, surviving configuration changes and navigation, to break your app's logic into smaller and reusable components.
 
-[Circuit](https://github.com/slackhq/circuit) ⭐ 1,847 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-23 - Compose-driven architecture for Kotlin and Android applications.
-[![GitHub Repo stars](https://img.shields.io/github/stars/slackhq/circuit?style=flat)](https://github.com/slackhq/circuit) ⭐ 1,847 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-23
+[Circuit](https://github.com/slackhq/circuit) ⭐ 1,848 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-24 - Compose-driven architecture for Kotlin and Android applications.
+[![GitHub Repo stars](https://img.shields.io/github/stars/slackhq/circuit?style=flat)](https://github.com/slackhq/circuit) ⭐ 1,848 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/com.slack.circuit/circuit-foundation)](https://central.sonatype.com/artifact/com.slack.circuit/circuit-foundation)
 
 > Compose-first Kotlin framework that simplifies building multiplatform applications by unifying UI and business logic through a declarative, unidirectional data flow architecture.
@@ -677,8 +677,8 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > Mocking for Kotlin/Native and Kotlin Multiplatform using the Kotlin Symbol Processing API (KSP)
 
-[MocKMP](https://github.com/kosi-libs/MocKMP) ⭐ 223 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-22 - Mocking with KSP
-[![GitHub Repo stars](https://img.shields.io/github/stars/kosi-libs/MocKMP?style=flat)](https://github.com/kosi-libs/MocKMP) ⭐ 223 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-22
+[MocKMP](https://github.com/kosi-libs/MocKMP) ⭐ 223 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-24 - Mocking with KSP
+[![GitHub Repo stars](https://img.shields.io/github/stars/kosi-libs/MocKMP?style=flat)](https://github.com/kosi-libs/MocKMP) ⭐ 223 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/org.kodein.mock.mockmp/org.kodein.mock.mockmp.gradle.plugin)](https://central.sonatype.com/artifact/org.kodein.mock.mockmp/org.kodein.mock.mockmp.gradle.plugin)
 
 > A Kotlin/Multiplatform Kotlin Symbol Processor that generates Mocks & Fakes.
@@ -703,8 +703,8 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 ### 🔑 Crypto
 
-[Signum](https://github.com/a-sit-plus/signum) ⭐ 194 | 🐛 78 | 🌐 Kotlin | 📅 2026-08-21 - Crypto/PKI/ASN.1 Library
-[![GitHub Repo stars](https://img.shields.io/github/stars/a-sit-plus/signum?style=flat)](https://github.com/a-sit-plus/signum) ⭐ 194 | 🐛 78 | 🌐 Kotlin | 📅 2026-08-21
+[Signum](https://github.com/a-sit-plus/signum) ⭐ 194 | 🐛 79 | 🌐 Kotlin | 📅 2026-08-21 - Crypto/PKI/ASN.1 Library
+[![GitHub Repo stars](https://img.shields.io/github/stars/a-sit-plus/signum?style=flat)](https://github.com/a-sit-plus/signum) ⭐ 194 | 🐛 79 | 🌐 Kotlin | 📅 2026-08-21
 [![Maven Central](https://img.shields.io/maven-central/v/at.asitplus.signum/indispensable)](https://central.sonatype.com/artifact/at.asitplus.signum/indispensable)
 
 > Multiplatform crypto with ECDSA, RSA, ECDH, AES, HMAC, KDF (PBKDF2, HKDF, scrypt), hardware-backed crypto on Android/iOS, platform-native attestation, biometric authentication, X.509 certificates, CSRs, JOSE/COSE data structures, and a full ASN.1 parser/encoder with DSL.
@@ -715,8 +715,8 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > The library doesn’t implement any cryptography algorithm on its own, but wraps well-known future-proof solutions like OpenSSL 3.x, WebCrypto or JCA with type-safe multiplatform API providing uniform experience with aligned default behavior, and same expected results using identical parameters while allowing to use platform-specific capabilities.
 
-[Libsodium](https://github.com/ionspin/kotlin-multiplatform-libsodium) ⭐ 145 | 🐛 7 | 🌐 Kotlin | 📅 2026-06-09 - Libsodium bindings for Kotlin Multiplatform
-[![GitHub Repo stars](https://img.shields.io/github/stars/ionspin/kotlin-multiplatform-libsodium?style=flat)](https://github.com/ionspin/kotlin-multiplatform-libsodium) ⭐ 145 | 🐛 7 | 🌐 Kotlin | 📅 2026-06-09
+[Libsodium](https://github.com/ionspin/kotlin-multiplatform-libsodium) ⭐ 146 | 🐛 7 | 🌐 Kotlin | 📅 2026-06-09 - Libsodium bindings for Kotlin Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/ionspin/kotlin-multiplatform-libsodium?style=flat)](https://github.com/ionspin/kotlin-multiplatform-libsodium) ⭐ 146 | 🐛 7 | 🌐 Kotlin | 📅 2026-06-09
 [![Maven Central](https://img.shields.io/maven-central/v/com.ionspin.kotlin/multiplatform-crypto-libsodium-bindings)](https://central.sonatype.com/artifact/com.ionspin.kotlin/multiplatform-crypto-libsodium-bindings)
 
 > Libsodium bindings project uses libsodium c sources and libsodium.js to provide a kotlin multiplatform wrapper library for libsodium.
@@ -771,8 +771,8 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > A multiplatform Kotlin library providing basic IO primitives. kotlinx-io is based on Okio but does not preserve backward compatibility with it.
 
-[Okio](https://github.com/square/okio) ⭐ 9,034 | 🐛 103 | 🌐 Kotlin | 📅 2026-08-21 - access, store, and process your data
-[![GitHub Repo stars](https://img.shields.io/github/stars/square/okio?style=flat)](https://github.com/square/okio) ⭐ 9,034 | 🐛 103 | 🌐 Kotlin | 📅 2026-08-21
+[Okio](https://github.com/square/okio) ⭐ 9,035 | 🐛 103 | 🌐 Kotlin | 📅 2026-08-21 - access, store, and process your data
+[![GitHub Repo stars](https://img.shields.io/github/stars/square/okio?style=flat)](https://github.com/square/okio) ⭐ 9,035 | 🐛 103 | 🌐 Kotlin | 📅 2026-08-21
 [![Maven Central](https://img.shields.io/maven-central/v/com.squareup.okio/okio)](https://central.sonatype.com/artifact/com.squareup.okio/okio)
 
 > Okio is a library that complements java.io and java.nio to make it much easier to access, store, and process your data.
@@ -788,8 +788,8 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > Kotlin multiplatform file system i/o for android, iOS, Java and NodeJS
 
-[FileKit](https://github.com/vinceglb/FileKit) ⭐ 1,527 | 🐛 24 | 🌐 Kotlin | 📅 2026-08-17 - Pick and save Files, Medias and Folder
-[![GitHub Repo stars](https://img.shields.io/github/stars/vinceglb/FileKit?style=flat)](https://github.com/vinceglb/FileKit) ⭐ 1,527 | 🐛 24 | 🌐 Kotlin | 📅 2026-08-17
+[FileKit](https://github.com/vinceglb/FileKit) ⭐ 1,527 | 🐛 23 | 🌐 Kotlin | 📅 2026-08-24 - Pick and save Files, Medias and Folder
+[![GitHub Repo stars](https://img.shields.io/github/stars/vinceglb/FileKit?style=flat)](https://github.com/vinceglb/FileKit) ⭐ 1,527 | 🐛 23 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.vinceglb/filekit-core)](https://central.sonatype.com/artifact/io.github.vinceglb/filekit-core)
 
 > Files, Medias, Folder Picker and File saver library for Kotlin Multiplatform and Compose Multiplatform
@@ -802,8 +802,8 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 ### 🚀 Language extensions
 
-[Arrow](https://github.com/arrow-kt/arrow) ⭐ 6,576 | 🐛 32 | 🌐 Kotlin | 📅 2026-08-23 - Functional companion to Kotlin's Standard Library
-[![GitHub Repo stars](https://img.shields.io/github/stars/arrow-kt/arrow?style=flat)](https://github.com/arrow-kt/arrow) ⭐ 6,576 | 🐛 32 | 🌐 Kotlin | 📅 2026-08-23
+[Arrow](https://github.com/arrow-kt/arrow) ⭐ 6,577 | 🐛 33 | 🌐 Kotlin | 📅 2026-08-24 - Functional companion to Kotlin's Standard Library
+[![GitHub Repo stars](https://img.shields.io/github/stars/arrow-kt/arrow?style=flat)](https://github.com/arrow-kt/arrow) ⭐ 6,577 | 🐛 33 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/io.arrow-kt/arrow-core)](https://central.sonatype.com/artifact/io.arrow-kt/arrow-core)
 
 > Arrow aims to provide a lingua franca of interfaces and abstractions across Kotlin libraries. For this, it includes the most popular data types such as Option, Either, Validated etc and functional operators such as traverse and computation blocks to empower users to write pure FP apps and libraries built atop higher order abstractions.
@@ -820,16 +820,16 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > ApiResult is a Kotlin Multiplatform declarative error handling framework that is performant, easy to use and feature-rich.
 
-[Sandwich](https://github.com/skydoves/sandwich) ⭐ 1,771 | 🐛 5 | 🌐 Kotlin | 📅 2026-08-20 - Handling API responses and exceptions in Kotlin for Retrofit, Ktor, Ktorfit
-[![GitHub Repo stars](https://img.shields.io/github/stars/skydoves/sandwich?style=flat)](https://github.com/skydoves/sandwich) ⭐ 1,771 | 🐛 5 | 🌐 Kotlin | 📅 2026-08-20
+[Sandwich](https://github.com/skydoves/sandwich) ⭐ 1,770 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-24 - Handling API responses and exceptions in Kotlin for Retrofit, Ktor, Ktorfit
+[![GitHub Repo stars](https://img.shields.io/github/stars/skydoves/sandwich?style=flat)](https://github.com/skydoves/sandwich) ⭐ 1,770 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/com.github.skydoves/sandwich.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.github.skydoves%22%20AND%20a:%22sandwich%22)
 
 > Sandwich is an adaptable and lightweight sealed API library designed for handling API responses and exceptions in Kotlin for Retrofit, Ktor, and Kotlin Multiplatform.
 
 ### 🗃 Serializer
 
-[kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) ⭐ 5,942 | 🐛 315 | 🌐 Kotlin | 📅 2026-08-21 - JSON serialization
-[![GitHub Repo stars](https://img.shields.io/github/stars/Kotlin/kotlinx.serialization?style=flat)](https://github.com/Kotlin/kotlinx.serialization) ⭐ 5,942 | 🐛 315 | 🌐 Kotlin | 📅 2026-08-21
+[kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) ⭐ 5,942 | 🐛 314 | 🌐 Kotlin | 📅 2026-08-24 - JSON serialization
+[![GitHub Repo stars](https://img.shields.io/github/stars/Kotlin/kotlinx.serialization?style=flat)](https://github.com/Kotlin/kotlinx.serialization) ⭐ 5,942 | 🐛 314 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/org.jetbrains.kotlinx/kotlinx-serialization-core)](https://central.sonatype.com/artifact/org.jetbrains.kotlinx/kotlinx-serialization-core)
 
 > Kotlin serialization consists of a compiler plugin, that generates visitor code for serializable classes, runtime library with core serialization API and support libraries with various serialization formats.
@@ -884,8 +884,8 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 ### ⏰ Date-Time
 
-[Kotlinx DateTime](https://github.com/Kotlin/kotlinx-datetime) ⭐ 2,825 | 🐛 32 | 🌐 Kotlin | 📅 2026-08-21 - Date & Time library
-[![GitHub Repo stars](https://img.shields.io/github/stars/Kotlin/kotlinx-datetime?style=flat)](https://github.com/Kotlin/kotlinx-datetime) ⭐ 2,825 | 🐛 32 | 🌐 Kotlin | 📅 2026-08-21
+[Kotlinx DateTime](https://github.com/Kotlin/kotlinx-datetime) ⭐ 2,825 | 🐛 32 | 🌐 Kotlin | 📅 2026-08-24 - Date & Time library
+[![GitHub Repo stars](https://img.shields.io/github/stars/Kotlin/kotlinx-datetime?style=flat)](https://github.com/Kotlin/kotlinx-datetime) ⭐ 2,825 | 🐛 32 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/org.jetbrains.kotlinx/kotlinx-datetime)](https://central.sonatype.com/artifact/org.jetbrains.kotlinx/kotlinx-datetime)
 
 > A multiplatform Kotlin library for working with date and time.
@@ -900,24 +900,24 @@ It reduces time spent writing and maintaining the same code for different platfo
 [![GitHub Repo stars](https://img.shields.io/github/stars/softartdev/Kronos-Multiplatform?style=flat)](https://github.com/softartdev/Kronos-Multiplatform) ⭐ 26 | 🐛 2 | 🌐 Swift | 📅 2025-12-22
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.softartdev/kronos)](https://central.sonatype.com/artifact/io.github.softartdev/kronos)
 
-> Kotlin Multiplatform library for network time synchronization. Extension for [Kotlinx DateTime](https://github.com/Kotlin/kotlinx-datetime) ⭐ 2,825 | 🐛 32 | 🌐 Kotlin | 📅 2026-08-21 library.
+> Kotlin Multiplatform library for network time synchronization. Extension for [Kotlinx DateTime](https://github.com/Kotlin/kotlinx-datetime) ⭐ 2,825 | 🐛 32 | 🌐 Kotlin | 📅 2026-08-24 library.
 
 [KCron](https://github.com/Scogun/kcron-common) ⭐ 40 | 🐛 4 | 🌐 Kotlin | 📅 2025-12-19 - Kotlin multiplatform Cron library
 [![GitHub Repo stars](https://img.shields.io/github/stars/Scogun/kcron-common?style=flat)](https://github.com/Scogun/kcron-common) ⭐ 40 | 🐛 4 | 🌐 Kotlin | 📅 2025-12-19
 [![Maven Central](https://img.shields.io/maven-central/v/com.ucasoft.kcron/kcron-common)](https://central.sonatype.com/artifact/com.ucasoft.kcron/kcron-common)
 
-> Kotlin Multiplatform library for build and parsing cron expression. Support custom date time providers. Has default implementation based on [Kotlinx DateTime](https://github.com/Kotlin/kotlinx-datetime) ⭐ 2,825 | 🐛 32 | 🌐 Kotlin | 📅 2026-08-21 library.
+> Kotlin Multiplatform library for build and parsing cron expression. Support custom date time providers. Has default implementation based on [Kotlinx DateTime](https://github.com/Kotlin/kotlinx-datetime) ⭐ 2,825 | 🐛 32 | 🌐 Kotlin | 📅 2026-08-24 library.
 
 ### ➿ Asynchronous
 
-[Kotlinx Coroutines](https://github.com/Kotlin/kotlinx.coroutines) ⭐ 13,804 | 🐛 339 | 🌐 Kotlin | 📅 2026-08-20 - Kotlin coroutines
-[![GitHub Repo stars](https://img.shields.io/github/stars/Kotlin/kotlinx.coroutines?style=flat)](https://github.com/Kotlin/kotlinx.coroutines) ⭐ 13,804 | 🐛 339 | 🌐 Kotlin | 📅 2026-08-20
+[Kotlinx Coroutines](https://github.com/Kotlin/kotlinx.coroutines) ⭐ 13,804 | 🐛 339 | 🌐 Kotlin | 📅 2026-08-24 - Kotlin coroutines
+[![GitHub Repo stars](https://img.shields.io/github/stars/Kotlin/kotlinx.coroutines?style=flat)](https://github.com/Kotlin/kotlinx.coroutines) ⭐ 13,804 | 🐛 339 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/org.jetbrains.kotlinx/kotlinx-coroutines-core)](https://central.sonatype.com/artifact/org.jetbrains.kotlinx/kotlinx-coroutines-core)
 
 > Library support for Kotlin coroutines
 
-[molecule](https://github.com/cashapp/molecule) ⭐ 2,220 | 🐛 33 | 🌐 Kotlin | 📅 2026-08-22 - Build a StateFlow stream using Jetpack Compose
-[![GitHub Repo stars](https://img.shields.io/github/stars/cashapp/molecule?style=flat)](https://github.com/cashapp/molecule) ⭐ 2,220 | 🐛 33 | 🌐 Kotlin | 📅 2026-08-22
+[molecule](https://github.com/cashapp/molecule) ⭐ 2,221 | 🐛 33 | 🌐 Kotlin | 📅 2026-08-22 - Build a StateFlow stream using Jetpack Compose
+[![GitHub Repo stars](https://img.shields.io/github/stars/cashapp/molecule?style=flat)](https://github.com/cashapp/molecule) ⭐ 2,221 | 🐛 33 | 🌐 Kotlin | 📅 2026-08-22
 [![Maven Central](https://img.shields.io/maven-central/v/app.cash.molecule/molecule-runtime)](https://central.sonatype.com/artifact/app.cash.molecule/molecule-runtime)
 
 > Build a StateFlow or Flow stream using Jetpack Compose and NOT Jetpack Compose UI!
@@ -966,15 +966,15 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 ### 🎨 UI Frameworks
 
-[KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) ⭐ 3,404 | 🐛 165 | 🌐 Kotlin | 📅 2026-08-20 - High-performance, full-platform development framework with unified codebase.
-[![GitHub Repo stars](https://img.shields.io/github/stars/Tencent-TDS/KuiklyUI?style=flat)](https://github.com/Tencent-TDS/KuiklyUI) ⭐ 3,404 | 🐛 165 | 🌐 Kotlin | 📅 2026-08-20
+[KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) ⭐ 3,407 | 🐛 165 | 🌐 Kotlin | 📅 2026-08-20 - High-performance, full-platform development framework with unified codebase.
+[![GitHub Repo stars](https://img.shields.io/github/stars/Tencent-TDS/KuiklyUI?style=flat)](https://github.com/Tencent-TDS/KuiklyUI) ⭐ 3,407 | 🐛 165 | 🌐 Kotlin | 📅 2026-08-20
 
 > Tencent's cross-platform UI framework supporting Android, iOS, HarmonyOS, Web, and Mini Programs. Features native rendering, dynamic updates, and hot reload capabilities.
 
 ### 🍎 Compose UI
 
-[Appyx](https://github.com/bumble-tech/appyx) ⭐ 1,258 | 🐛 81 | 🌐 Kotlin | 📅 2026-08-22 Navigation, transition animations, gestures, UI components.
-[![GitHub Repo stars](https://img.shields.io/github/stars/bumble-tech/appyx?style=flat)](https://github.com/bumble-tech/appyx) ⭐ 1,258 | 🐛 81 | 🌐 Kotlin | 📅 2026-08-22
+[Appyx](https://github.com/bumble-tech/appyx) ⭐ 1,259 | 🐛 81 | 🌐 Kotlin | 📅 2026-08-22 Navigation, transition animations, gestures, UI components.
+[![GitHub Repo stars](https://img.shields.io/github/stars/bumble-tech/appyx?style=flat)](https://github.com/bumble-tech/appyx) ⭐ 1,259 | 🐛 81 | 🌐 Kotlin | 📅 2026-08-22
 [![Maven Central](https://img.shields.io/maven-central/v/com.bumble.appyx/appyx-interactions)](https://central.sonatype.com/artifact/com.bumble.appyx/appyx-interactions)
 
 > Model-driven navigation + UI components with gesture control for Compose Multiplatform
@@ -1003,8 +1003,8 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > Compose Multiplatform: Material 3 Window Size Class
 
-[coil](https://github.com/coil-kt/coil) ⭐ 11,878 | 🐛 70 | 🌐 Kotlin | 📅 2026-08-23 - Image loading for Compose Multiplatform.
-[![GitHub Repo stars](https://img.shields.io/github/stars/coil-kt/coil?style=flat)](https://github.com/coil-kt/coil) ⭐ 11,878 | 🐛 70 | 🌐 Kotlin | 📅 2026-08-23
+[coil](https://github.com/coil-kt/coil) ⭐ 11,881 | 🐛 72 | 🌐 Kotlin | 📅 2026-08-24 - Image loading for Compose Multiplatform.
+[![GitHub Repo stars](https://img.shields.io/github/stars/coil-kt/coil?style=flat)](https://github.com/coil-kt/coil) ⭐ 11,881 | 🐛 72 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/io.coil-kt.coil3/coil-compose)](https://central.sonatype.com/artifact/io.coil-kt.coil3/coil-compose)
 
 > Image loading for Compose Multiplatform.
@@ -1015,14 +1015,14 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > Compose Image library for Kotlin Multiplatform.
 
-[Kamel](https://github.com/Kamel-Media/Kamel) ⭐ 795 | 🐛 24 | 🌐 Kotlin | 📅 2026-08-20 Compose Multiplatform image loading.
-[![GitHub Repo stars](https://img.shields.io/github/stars/Kamel-Media/Kamel?style=flat)](https://github.com/Kamel-Media/Kamel) ⭐ 795 | 🐛 24 | 🌐 Kotlin | 📅 2026-08-20
+[Kamel](https://github.com/Kamel-Media/Kamel) ⭐ 795 | 🐛 24 | 🌐 Kotlin | 📅 2026-08-24 Compose Multiplatform image loading.
+[![GitHub Repo stars](https://img.shields.io/github/stars/Kamel-Media/Kamel?style=flat)](https://github.com/Kamel-Media/Kamel) ⭐ 795 | 🐛 24 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/media.kamel/kamel-core)](https://central.sonatype.com/artifact/media.kamel/kamel-core)
 
 > An asynchronous media loading library for Compose Multiplatform.
 
-[Sketch](https://github.com/panpf/sketch) ⭐ 2,401 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-08 Image loader for Compose Multiplatform
-[![GitHub Repo stars](https://img.shields.io/github/stars/panpf/sketch?style=flat)](https://github.com/panpf/sketch) ⭐ 2,401 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-08
+[Sketch](https://github.com/panpf/sketch) ⭐ 2,402 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-08 Image loader for Compose Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/panpf/sketch?style=flat)](https://github.com/panpf/sketch) ⭐ 2,402 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-08
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.panpf.sketch4/sketch-core)](https://search.maven.org/artifact/io.github.panpf.sketch4/sketch-core)
 
 > Sketch is an image loading library designed for Compose Multiplatform. It is powerful and rich in functions. In addition to basic functions, it also supports GIF, SVG, video thumbnails, Exif Orientation, etc.
@@ -1045,21 +1045,21 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > Kotlin Multiplatform library for easy switching Dark/Light Material themes on Compose.
 
-[Drag Select Compose](https://github.com/jordond/drag-select-compose) ⭐ 247 | 🐛 17 | 🌐 Kotlin | 📅 2026-08-19 Google Photos style drag-to-select multi-selection.
-[![GitHub Repo stars](https://img.shields.io/github/stars/jordond/drag-select-compose?style=flat)](https://github.com/jordond/drag-select-compose) ⭐ 247 | 🐛 17 | 🌐 Kotlin | 📅 2026-08-19
+[Drag Select Compose](https://github.com/jordond/drag-select-compose) ⭐ 247 | 🐛 17 | 🌐 Kotlin | 📅 2026-08-24 Google Photos style drag-to-select multi-selection.
+[![GitHub Repo stars](https://img.shields.io/github/stars/jordond/drag-select-compose?style=flat)](https://github.com/jordond/drag-select-compose) ⭐ 247 | 🐛 17 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/com.dragselectcompose/dragselect)](https://central.sonatype.com/artifact/com.dragselectcompose/dragselect)
 
 > Compose Multiplatform library that allows you to easily implement a "Google Photos"-style multi-selection in
 > your Compose apps.
 
-[MaterialKolor](https://github.com/jordond/materialkolor) ⭐ 927 | 🐛 13 | 🌐 Kotlin | 📅 2026-08-21 Generate Material3 color schemes from a seed color.
-[![GitHub Repo stars](https://img.shields.io/github/stars/jordond/materialkolor?style=flat)](https://github.com/jordond/materialkolor) ⭐ 927 | 🐛 13 | 🌐 Kotlin | 📅 2026-08-21
+[MaterialKolor](https://github.com/jordond/materialkolor) ⭐ 926 | 🐛 14 | 🌐 Kotlin | 📅 2026-08-24 Generate Material3 color schemes from a seed color.
+[![GitHub Repo stars](https://img.shields.io/github/stars/jordond/materialkolor?style=flat)](https://github.com/jordond/materialkolor) ⭐ 926 | 🐛 14 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/com.materialkolor/material-kolor)](https://central.sonatype.com/artifact/com.materialkolor/material-kolor)
 
 > Compose multiplatform library for generating dynamic Material3 color schemes from a seed color.
 
-[Compose-placeholder](https://github.com/eygraber/compose-placeholder) ⭐ 327 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-19 Modifier for displaying 'placeholder' UI while content is loading.
-[![GitHub Repo stars](https://img.shields.io/github/stars/eygraber/compose-placeholder?style=flat)](https://github.com/eygraber/compose-placeholder) ⭐ 327 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-19
+[Compose-placeholder](https://github.com/eygraber/compose-placeholder) ⭐ 327 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-24 Modifier for displaying 'placeholder' UI while content is loading.
+[![GitHub Repo stars](https://img.shields.io/github/stars/eygraber/compose-placeholder?style=flat)](https://github.com/eygraber/compose-placeholder) ⭐ 327 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/com.eygraber/compose-placeholder)](https://central.sonatype.com/artifact/com.eygraber/compose-placeholder)
 
 > Compose multiplatform library which provides a modifier for displaying 'placeholder' UI while content is loading.
@@ -1070,8 +1070,8 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > A Compose Multiplatform library for generating color palettes from images, including the dominant color.
 
-[Reveal](https://github.com/svenjacobs/reveal) ⭐ 614 | 🐛 9 | 🌐 Kotlin | 📅 2026-08-17 Reveal effect for Compose Multiplatform
-[![GitHub Repo stars](https://img.shields.io/github/stars/svenjacobs/reveal?style=flat)](https://github.com/svenjacobs/reveal) ⭐ 614 | 🐛 9 | 🌐 Kotlin | 📅 2026-08-17
+[Reveal](https://github.com/svenjacobs/reveal) ⭐ 614 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-24 Reveal effect for Compose Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/svenjacobs/reveal?style=flat)](https://github.com/svenjacobs/reveal) ⭐ 614 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/com.svenjacobs.reveal/reveal-core)](https://central.sonatype.com/artifact/com.svenjacobs.reveal/reveal-core/badge.svg)
 
 > A reveal effect (coach mark, tutorial, onboarding) for Compose Multiplatform (Android, iOS, desktop, Web)
@@ -1130,8 +1130,8 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > Modular wheel picker for Compose Multiplatform. Use your own composables for items and window, style items based on position, customize buffer size, animations, and scroll friction. Supports programmatic scrolling with animation.
 
-[ZoomImage](https://github.com/panpf/zoomimage) ⭐ 644 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-23 Library for zoom images
-[![GitHub Repo stars](https://img.shields.io/github/stars/panpf/zoomimage?style=flat)](https://github.com/panpf/zoomimage) ⭐ 644 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-23
+[ZoomImage](https://github.com/panpf/zoomimage) ⭐ 645 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-23 Library for zoom images
+[![GitHub Repo stars](https://img.shields.io/github/stars/panpf/zoomimage?style=flat)](https://github.com/panpf/zoomimage) ⭐ 645 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-23
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.panpf.zoomimage/zoomimage-core)](https://search.maven.org/artifact/io.github.panpf.zoomimage/zoomimage-core)
 
 > Library for zoom images, supported Android View, Compose and Compose Multiplatform; supported double-click zoom, One or two fingers gesture zoom, single-finger drag, inertial sliding, positioning, rotation, super-large image subsampling and other functions.
@@ -1142,8 +1142,8 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > Kotlin Multiplatform library for Compose Multiplatform, designed for seamless integration of an image picker feature in iOS and Android applications.
 
-[FlexibleBottomSheet](https://github.com/skydoves/FlexibleBottomSheet) ⭐ 1,120 | 🐛 23 | 🌐 Kotlin | 📅 2026-07-02 - Flexible BottomSheet library Compose Multiplatform
-[![GitHub Repo stars](https://img.shields.io/github/stars/skydoves/FlexibleBottomSheet?style=flat)](https://github.com/skydoves/FlexibleBottomSheet) ⭐ 1,120 | 🐛 23 | 🌐 Kotlin | 📅 2026-07-02
+[FlexibleBottomSheet](https://github.com/skydoves/FlexibleBottomSheet) ⭐ 1,119 | 🐛 23 | 🌐 Kotlin | 📅 2026-07-02 - Flexible BottomSheet library Compose Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/skydoves/FlexibleBottomSheet?style=flat)](https://github.com/skydoves/FlexibleBottomSheet) ⭐ 1,119 | 🐛 23 | 🌐 Kotlin | 📅 2026-07-02
 [![Maven Central](https://img.shields.io/maven-central/v/com.github.skydoves/flexible-core)](https://central.sonatype.com/artifact/com.github.skydoves/flexible-core)
 
 > Advanced Compose Multiplatform bottom sheet for segmented sizing and non-modal type, similar to Google Maps.
@@ -1172,8 +1172,8 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > Build great-looking interactive plots for Android, Desktop, iOS, and Web using a single API and common code base. Supports over 7 graph types.
 
-[Vico](https://github.com/patrykandpatrick/vico) ⭐ 3,151 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-19 - A powerful and extensible multiplatform chart library
-[![GitHub Repo stars](https://img.shields.io/github/stars/patrykandpatrick/vico?style=flat)](https://github.com/patrykandpatrick/vico) ⭐ 3,151 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-19
+[Vico](https://github.com/patrykandpatrick/vico) ⭐ 3,153 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-24 - A powerful and extensible multiplatform chart library
+[![GitHub Repo stars](https://img.shields.io/github/stars/patrykandpatrick/vico?style=flat)](https://github.com/patrykandpatrick/vico) ⭐ 3,153 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/com.patrykandpatrick.vico/compose)](https://central.sonatype.com/artifact/com.patrykandpatrick.vico/compose)
 
 > A powerful and extensible multiplatform chart library. Offers native support for Jetpack Compose, Compose Multiplatform, and the Android view system.
@@ -1218,8 +1218,8 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > Useful when implementing larger layouts with more complicated alignment requirements.
 
-[Compose Settings](https://github.com/alorma/Compose-Settings/) ⭐ 568 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-19 - Compose Settings.
-[![GitHub Repo stars](https://img.shields.io/github/stars/alorma/Compose-Settings?style=flat)](https://github.com/alorma/Compose-Settings/stargazers) ⭐ 568 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-19
+[Compose Settings](https://github.com/alorma/Compose-Settings/) ⭐ 568 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-24 - Compose Settings.
+[![GitHub Repo stars](https://img.shields.io/github/stars/alorma/Compose-Settings?style=flat)](https://github.com/alorma/Compose-Settings/stargazers) ⭐ 568 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/com.github.alorma.compose-settings/ui-tiles.svg)](https://central.sonatype.com/namespace/com.github.alorma.compose-settings)
 
 > Compose Multiplatform #Compose Settings library.
@@ -1230,14 +1230,14 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > A library for implementing motion system in Material Components for Compose Multiplatform.
 
-[Tiamat](https://github.com/ComposeGears/Tiamat) ⭐ 265 | 🐛 16 | 🌐 Kotlin | 📅 2026-08-19 - Compose Multiplatform navigation library.
-[![GitHub Repo stars](https://img.shields.io/github/stars/ComposeGears/Tiamat?style=flat)](https://github.com/ComposeGears/Tiamat/stargazers) ⭐ 265 | 🐛 16 | 🌐 Kotlin | 📅 2026-08-19
+[Tiamat](https://github.com/ComposeGears/Tiamat) ⭐ 265 | 🐛 16 | 🌐 Kotlin | 📅 2026-08-24 - Compose Multiplatform navigation library.
+[![GitHub Repo stars](https://img.shields.io/github/stars/ComposeGears/Tiamat?style=flat)](https://github.com/ComposeGears/Tiamat/stargazers) ⭐ 265 | 🐛 16 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.composegears/tiamat)](https://central.sonatype.com/artifact/io.github.composegears/tiamat)
 
 > Key features: code generation free, pure Compose, nested navigation support, back-stack alteration (+deep-links), pass ANY types between screens as data, even lambdas, customizable transitions.
 
-[Landscapist](https://github.com/skydoves/landscapist) ⭐ 2,575 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-22: Compose image loading library for Kotlin Multiplatform.
-[![GitHub Repo stars](https://img.shields.io/github/stars/skydoves/landscapist?style=flat)](https://github.com/skydoves/landscapist/stargazers) ⭐ 2,575 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-22
+[Landscapist](https://github.com/skydoves/landscapist) ⭐ 2,574 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-24: Compose image loading library for Kotlin Multiplatform.
+[![GitHub Repo stars](https://img.shields.io/github/stars/skydoves/landscapist?style=flat)](https://github.com/skydoves/landscapist/stargazers) ⭐ 2,574 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/com.github.skydoves/landscapist.svg?label=Maven%20Central)](https://central.sonatype.com/search?q=skydoves%2520landscapist)
 
 > A pluggable, highly optimized Jetpack Compose and Kotlin Multiplatform image loading library that fetches and displays network images with Glide, Coil, and Fresco.
@@ -1254,8 +1254,8 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > A highly customizable calendar library for Android and Compose Multiplatform, backed by RecyclerView for the view system, and LazyRow/LazyColumn for compose.
 
-[Compose Unstyled](https://github.com/composablehorizons/compose-unstyled/) ⭐ 1,214 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-23: Unstyled components for Compose Multiplatform.
-[![GitHub Repo stars](https://img.shields.io/github/stars/composablehorizons/compose-unstyled?style=flat)](https://github.com/composablehorizons/compose-unstyled/stargazers) ⭐ 1,214 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-23
+[Compose Unstyled](https://github.com/composablehorizons/compose-unstyled/) ⭐ 1,214 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-24: Unstyled components for Compose Multiplatform.
+[![GitHub Repo stars](https://img.shields.io/github/stars/composablehorizons/compose-unstyled?style=flat)](https://github.com/composablehorizons/compose-unstyled/stargazers) ⭐ 1,214 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/com.composables/core.svg?label=Maven%20Central)](https://central.sonatype.com/search?q=com.composables.core)
 
 > Unstyled, fully accessible components for Jetpack Compose & Compose Multiplatform that you can customize to your heart's content.
@@ -1266,8 +1266,8 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > Beautifully designed, customizable UI components for Compose, ready to copy and paste into your apps.
 
-[compose-fluent-ui](https://github.com/compose-fluent/compose-fluent-ui) ⭐ 724 | 🐛 14 | 🌐 Kotlin | 📅 2026-08-18: Fluent Design UI library for Compose Multiplatform.
-[![GitHub Repo stars](https://img.shields.io/github/stars/compose-fluent/compose-fluent-ui?style=flat)](https://github.com/compose-fluent/compose-fluent-ui/stargazers) ⭐ 724 | 🐛 14 | 🌐 Kotlin | 📅 2026-08-18
+[compose-fluent-ui](https://github.com/compose-fluent/compose-fluent-ui) ⭐ 725 | 🐛 14 | 🌐 Kotlin | 📅 2026-08-18: Fluent Design UI library for Compose Multiplatform.
+[![GitHub Repo stars](https://img.shields.io/github/stars/compose-fluent/compose-fluent-ui?style=flat)](https://github.com/compose-fluent/compose-fluent-ui/stargazers) ⭐ 725 | 🐛 14 | 🌐 Kotlin | 📅 2026-08-18
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.compose-fluent/fluent)](https://search.maven.org/artifact/io.github.compose-fluent/fluent)
 
 > Compose Fluent UI is a multiplatform UI library that implements Fluent Design System using Compose Multiplatform. It provides an abundance of components for creating user interfaces similar to those in WinUI 3 applications.
@@ -1356,20 +1356,20 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > Compose Multiplatform Liquid Glass effect
 
-[Haze](https://github.com/chrisbanes/haze) ⭐ 2,482 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-20 - Visual effects (blur and more) for Compose Multiplatform
-[![GitHub Repo stars](https://img.shields.io/github/stars/chrisbanes/haze?style=flat)](https://github.com/chrisbanes/haze) ⭐ 2,482 | 🐛 1 | 🌐 Kotlin | 📅 2026-08-20
+[Haze](https://github.com/chrisbanes/haze) ⭐ 2,484 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-24 - Visual effects (blur and more) for Compose Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/chrisbanes/haze?style=flat)](https://github.com/chrisbanes/haze) ⭐ 2,484 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/dev.chrisbanes.haze/haze)](https://search.maven.org/search?q=g:dev.chrisbanes.haze)
 
 > Compose Multiplatform visual effects (blur and more)
 
-[Multiplatform Markdown Renderer](https://github.com/mikepenz/multiplatform-markdown-renderer) ⭐ 1,047 | 🐛 11 | 🌐 Kotlin | 📅 2026-08-23 - Markdown renderer for Compose Multiplatform
-[![GitHub Repo stars](https://img.shields.io/github/stars/mikepenz/multiplatform-markdown-renderer?style=flat)](https://github.com/mikepenz/multiplatform-markdown-renderer) ⭐ 1,047 | 🐛 11 | 🌐 Kotlin | 📅 2026-08-23
+[Multiplatform Markdown Renderer](https://github.com/mikepenz/multiplatform-markdown-renderer) ⭐ 1,049 | 🐛 11 | 🌐 Kotlin | 📅 2026-08-23 - Markdown renderer for Compose Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/mikepenz/multiplatform-markdown-renderer?style=flat)](https://github.com/mikepenz/multiplatform-markdown-renderer) ⭐ 1,049 | 🐛 11 | 🌐 Kotlin | 📅 2026-08-23
 [![Maven Central](https://img.shields.io/maven-central/v/com.mikepenz/multiplatform-markdown-renderer)](https://central.sonatype.com/artifact/com.mikepenz/multiplatform-markdown-renderer)
 
 > Markdown renderer for Compose Multiplatform Projects (Android, iOS, Desktop, Web).
 
-[DrawBox](https://github.com/akshay2211/DrawBox) ⭐ 419 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-17 - Canvas drawing library
-[![GitHub Repo stars](https://img.shields.io/github/stars/akshay2211/DrawBox?style=flat)](https://github.com/akshay2211/DrawBox) ⭐ 419 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-17
+[DrawBox](https://github.com/akshay2211/DrawBox) ⭐ 420 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-24 - Canvas drawing library
+[![GitHub Repo stars](https://img.shields.io/github/stars/akshay2211/DrawBox?style=flat)](https://github.com/akshay2211/DrawBox) ⭐ 420 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/io.ak1/drawbox)](https://central.sonatype.com/artifact/io.ak1/drawbox)
 
 > Kotlin Multiplatform drawing library with SVG export, undo/redo & shapes for Android, iOS, Web & Desktop.
@@ -1420,8 +1420,8 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > This project is an experimental SDK for Kotlin Multiplatform. This SDK is a wrapper around different platforms such as JVM, Android, iOS, macOS, watchOS, tvOS that can be used on Kotlin Multiplatform.
 
-[bitcoin-kmp](https://github.com/ACINQ/bitcoin-kmp) ⭐ 89 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-17 - Kotlin Multiplatform Bitcoin Library
-[![GitHub Repo stars](https://img.shields.io/github/stars/ACINQ/bitcoin-kmp?style=flat)](https://github.com/ACINQ/bitcoin-kmp) ⭐ 89 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-17
+[bitcoin-kmp](https://github.com/ACINQ/bitcoin-kmp) ⭐ 89 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-24 - Kotlin Multiplatform Bitcoin Library
+[![GitHub Repo stars](https://img.shields.io/github/stars/ACINQ/bitcoin-kmp?style=flat)](https://github.com/ACINQ/bitcoin-kmp) ⭐ 89 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/fr.acinq.bitcoin/bitcoin-kmp)](https://central.sonatype.com/artifact/fr.acinq.bitcoin/bitcoin-kmp)
 
 > This is a simple Kotlin Multiplatform library which implements most of the bitcoin protocol
@@ -1444,8 +1444,8 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > This library gives access to TMDb API version 3 and 4 for mobile, desktop, and web applications. It supports Swift, Kotlin, and JavaScript by setting up as a Kotlin Multiplatform project.
 
-[Growth Book SDK](https://github.com/growthbook/growthbook-kotlin) ⭐ 30 | 🐛 7 | 🌐 Kotlin | 📅 2026-08-14 - GrowthBook Kotlin SDK
-[![GitHub Repo stars](https://img.shields.io/github/stars/growthbook/growthbook-kotlin?style=flat)](https://github.com/growthbook/growthbook-kotlin) ⭐ 30 | 🐛 7 | 🌐 Kotlin | 📅 2026-08-14
+[Growth Book SDK](https://github.com/growthbook/growthbook-kotlin) ⭐ 31 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-24 - GrowthBook Kotlin SDK
+[![GitHub Repo stars](https://img.shields.io/github/stars/growthbook/growthbook-kotlin?style=flat)](https://github.com/growthbook/growthbook-kotlin) ⭐ 31 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/io.growthbook.sdk/GrowthBook)](https://central.sonatype.com/artifact/io.growthbook.sdk/GrowthBook)
 
 > GrowthBook is an open-source platform for feature flagging and a/b testing built for data teams, engineers, and product managers. It's great whether you're looking to just analyze experiment results or looking to make it easier to deploy code.
@@ -1478,8 +1478,8 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > This is a Kotlin Multiplatform library that provides access to the resources on iOS & Android with the support of the default system localization.
 
-[Kotlinx-Resources](https://github.com/goncalossilva/kotlinx-resources) ⭐ 147 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-19 - text resources manager
-[![GitHub Repo stars](https://img.shields.io/github/stars/goncalossilva/kotlinx-resources?style=flat)](https://github.com/goncalossilva/kotlinx-resources) ⭐ 147 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-19
+[Kotlinx-Resources](https://github.com/goncalossilva/kotlinx-resources) ⭐ 147 | 🐛 5 | 🌐 Kotlin | 📅 2026-08-24 - text resources manager
+[![GitHub Repo stars](https://img.shields.io/github/stars/goncalossilva/kotlinx-resources?style=flat)](https://github.com/goncalossilva/kotlinx-resources) ⭐ 147 | 🐛 5 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/com.goncalossilva/resources)](https://central.sonatype.com/artifact/com.goncalossilva/resources)
 
 > Kotlin Multiplatform (KMP) plugin and library that add support for reading resources in tests.\
@@ -1487,20 +1487,20 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 ### 🔧 Utils
 
-[Uri KMP](https://github.com/eygraber/uri-kmp) ⭐ 289 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-19 - A library for working with URIs in Kotlin Multiplatform
-[![GitHub Repo stars](https://img.shields.io/github/stars/eygraber/uri-kmp?style=flat)](https://github.com/eygraber/uri-kmp) ⭐ 289 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-19
+[Uri KMP](https://github.com/eygraber/uri-kmp) ⭐ 289 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-24 - A library for working with URIs in Kotlin Multiplatform
+[![GitHub Repo stars](https://img.shields.io/github/stars/eygraber/uri-kmp?style=flat)](https://github.com/eygraber/uri-kmp) ⭐ 289 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/com.eygraber/uri-kmp)](https://central.sonatype.com/artifact/com.eygraber/uri-kmp)
 
 > A library for working with URIs in Kotlin Multiplatform
 
-[ByteBuffer](https://github.com/DitchOoM/buffer) ⭐ 84 | 🐛 21 | 🌐 Kotlin | 📅 2026-08-19 - Kotlin Multiplatform bytebuffer/byte\[] wrapper
-[![GitHub Repo stars](https://img.shields.io/github/stars/DitchOoM/buffer?style=flat)](https://github.com/DitchOoM/buffer) ⭐ 84 | 🐛 21 | 🌐 Kotlin | 📅 2026-08-19
+[ByteBuffer](https://github.com/DitchOoM/buffer) ⭐ 84 | 🐛 22 | 🌐 Kotlin | 📅 2026-08-24 - Kotlin Multiplatform bytebuffer/byte\[] wrapper
+[![GitHub Repo stars](https://img.shields.io/github/stars/DitchOoM/buffer?style=flat)](https://github.com/DitchOoM/buffer) ⭐ 84 | 🐛 22 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/com.ditchoom/buffer)](https://central.sonatype.com/artifact/com.ditchoom/buffer)
 
 > A kotlin multiplatform library that allows you to allocate and modify byte\[] natively using an API similar to Java's ByteBuffer API.
 
-[zipline](https://github.com/cashapp/zipline) ⭐ 2,298 | 🐛 110 | 🌐 C | 📅 2026-08-21 - Run Kotlin/JS libraries in Kotlin/JVM and Kotlin/Native programs
-[![GitHub Repo stars](https://img.shields.io/github/stars/cashapp/zipline?style=flat)](https://github.com/cashapp/zipline) ⭐ 2,298 | 🐛 110 | 🌐 C | 📅 2026-08-21
+[zipline](https://github.com/cashapp/zipline) ⭐ 2,298 | 🐛 110 | 🌐 C | 📅 2026-08-24 - Run Kotlin/JS libraries in Kotlin/JVM and Kotlin/Native programs
+[![GitHub Repo stars](https://img.shields.io/github/stars/cashapp/zipline?style=flat)](https://github.com/cashapp/zipline) ⭐ 2,298 | 🐛 110 | 🌐 C | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/app.cash.zipline/zipline)](https://central.sonatype.com/artifact/app.cash.zipline/zipline)
 
 > Zipline works by embedding the QuickJS JavaScript engine in your Kotlin/JVM or Kotlin/Native program. It's a small and fast JavaScript engine that's well-suited to embedding in applications.
@@ -1547,8 +1547,8 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > Kotlin Multiplatform library for reading and writing XMP (Extensible Metadata Platform) files
 
-[Highlights](https://github.com/SnipMeDev/Highlights) ⭐ 192 | 🐛 10 | 🌐 Kotlin | 📅 2026-08-13 - Kotlin Multiplatform syntax highlighting engine
-[![GitHub Repo stars](https://img.shields.io/github/stars/SnipMeDev/Highlights?style=flat)](https://github.com/SnipMeDev/Highlights) ⭐ 192 | 🐛 10 | 🌐 Kotlin | 📅 2026-08-13
+[Highlights](https://github.com/SnipMeDev/Highlights) ⭐ 193 | 🐛 10 | 🌐 Kotlin | 📅 2026-08-13 - Kotlin Multiplatform syntax highlighting engine
+[![GitHub Repo stars](https://img.shields.io/github/stars/SnipMeDev/Highlights?style=flat)](https://github.com/SnipMeDev/Highlights) ⭐ 193 | 🐛 10 | 🌐 Kotlin | 📅 2026-08-13
 [![Maven Central](https://img.shields.io/maven-central/v/dev.snipme/highlights)](https://central.sonatype.com/artifact/dev.snipme/highlights)
 
 > Kotlin Multiplatform library for analyzing and coloring syntax of code string
@@ -1559,8 +1559,8 @@ It reduces time spent writing and maintaining the same code for different platfo
 
 > KMPUtils is a collection of everything missing from the Kotlin Multiplatform Standard Library.
 
-[RSSParser](https://github.com/prof18/RSS-Parser) ⭐ 619 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-19 - A Kotlin Multiplatform library to parse a RSS Feed
-[![GitHub Repo stars](https://img.shields.io/github/stars/prof18/RSS-Parser?style=flat)](https://github.com/prof18/RSS-Parser) ⭐ 619 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-19
+[RSSParser](https://github.com/prof18/RSS-Parser) ⭐ 619 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-24 - A Kotlin Multiplatform library to parse a RSS Feed
+[![GitHub Repo stars](https://img.shields.io/github/stars/prof18/RSS-Parser?style=flat)](https://github.com/prof18/RSS-Parser) ⭐ 619 | 🐛 8 | 🌐 Kotlin | 📅 2026-08-24
 [![Maven Central](https://img.shields.io/maven-central/v/com.prof18.rssparser/rssparser)](https://central.sonatype.com/namespace/com.prof18.rssparser)
 
 > RSS Parser is a Kotlin Multiplatform library for parsing RSS and Atom feeds. It supports Android, iOS, and the JVM.

@@ -1,7 +1,3804 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "🖼 Website🚀 KMP Library Wizard🍏 Compose Multiplatform App Wizard📋 Documentation❤️ Kotlin -> Swift Interopedia📜 Blog📺 YouTube🤩 Samples🗄 Jetpack Compose Components🗄 Compose Multiplatform Components🗄 Compose Material 3 Gallery🎨 Material Theme Builder📚 Kotlin Multiplatform by Tutorials📚 Simplifying Application Development with Kotlin Multiplatform Mobile",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "kotlin-toolchain",
+              "description": "The Kotlin Toolchain is a unified entry point into Kotlin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1235755086,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T13:34:21Z",
+                "owner": "JetBrains",
+                "repo": "kotlin-toolchain",
+                "stars": 371
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MOKO KSwift",
+              "description": "gradle plugin",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 392317237,
+                "language": "Kotlin",
+                "last_commit": "2025-09-08T03:57:01Z",
+                "owner": "icerockdev",
+                "repo": "moko-kswift",
+                "stars": 356
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SKIE",
+              "description": "gradle plugin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 685579240,
+                "language": "Kotlin",
+                "last_commit": "2026-07-31T19:01:32Z",
+                "owner": "touchlab",
+                "repo": "SKIE",
+                "stars": 1308
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CompleteKotlin",
+              "description": "gradle plugin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 370341696,
+                "language": "Kotlin",
+                "last_commit": "2024-09-22T12:14:37Z",
+                "owner": "LouisCAD",
+                "repo": "CompleteKotlin",
+                "stars": 331
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gradle-buildconfig-plugin",
+              "description": "gradle plugin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172272573,
+                "language": "Kotlin",
+                "last_commit": "2026-08-17T21:38:48Z",
+                "owner": "gmazzo",
+                "repo": "gradle-buildconfig-plugin",
+                "stars": 885
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BuildKonfig",
+              "description": "gradle plugin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 166752017,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T07:43:38Z",
+                "owner": "yshrsmz",
+                "repo": "BuildKonfig",
+                "stars": 1208
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kotlin Native Xcode Support",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 167606347,
+                "language": "Python",
+                "last_commit": "2026-06-24T02:35:36Z",
+                "owner": "touchlab",
+                "repo": "xcode-kotlin",
+                "stars": 1391
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dokka",
+              "description": "documentation generation tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21763603,
+                "language": "Kotlin",
+                "last_commit": "2026-08-21T12:26:19Z",
+                "owner": "Kotlin",
+                "repo": "dokka",
+                "stars": 3803
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "compose-stability-analyzer",
+              "description": "composable stability plugin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1087919806,
+                "language": "Kotlin",
+                "last_commit": "2026-08-22T00:18:11Z",
+                "owner": "skydoves",
+                "repo": "compose-stability-analyzer",
+                "stars": 1634
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nucleus",
+              "description": "Nucleus is the native desktop platform for the JVM.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1153016582,
+                "language": "Kotlin",
+                "last_commit": "2026-08-20T10:26:02Z",
+                "owner": "NucleusFramework",
+                "repo": "Nucleus",
+                "stars": 337
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swift Klib",
+              "description": "gradle plugin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 425447153,
+                "language": "Kotlin",
+                "last_commit": "2025-08-03T16:59:43Z",
+                "owner": "ttypic",
+                "repo": "swift-klib-plugin",
+                "stars": 364
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "parcelize-darwin",
+              "description": "gradle plugin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 354151766,
+                "language": "Kotlin",
+                "last_commit": "2024-03-01T13:24:33Z",
+                "owner": "arkivanov",
+                "repo": "parcelize-darwin",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AboutLibraries",
+              "description": "gradle plugin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19025014,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T12:17:26Z",
+                "owner": "mikepenz",
+                "repo": "AboutLibraries",
+                "stars": 4415
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TestBalloon",
+              "description": "Kotlin testing made easy, everywhere.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 843511464,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T18:15:35Z",
+                "owner": "infix-de",
+                "repo": "testBalloon",
+                "stars": 248
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Valkyrie",
+              "description": "IntelliJ IDEA / Android Studio plugin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 778162113,
+                "language": "Kotlin",
+                "last_commit": "2026-08-09T01:06:10Z",
+                "owner": "ComposeGears",
+                "repo": "Valkyrie",
+                "stars": 881
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KMPify",
+              "description": "migration tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1013878658,
+                "language": "Kotlin",
+                "last_commit": "2025-11-06T23:29:52Z",
+                "owner": "MahmoudRH",
+                "repo": "kmpify",
+                "stars": 121
+              }
+            }
+          ],
+          "description": "Kotlin Multiplatform plugin IntelliJ IDEA / Android Studio plugin\nThis plugin for IntelliJ IDEA and Android Studio enables you to develop Kotlin Multiplatform applications targeting Android, iOS, desktop, web, and server.\nCocoaPods integration\nKotlin/Native provides integration with the CocoaPods dependency manager. You can add dependencies on Pod libraries as well as use a multiplatform project with native targets as a CocoaPods dependency (Kotlin Pod).\nA set of tools for the Kotlin language, with a focus on user experience and tooling\nKSwift it's gradle plugin for generation Swift-friendly API for Kotlin/Native framework.\nA Swift-friendly API Generator for Kotlin Multiplatform.\nGradle Plugin to enable auto-completion and symbol resolution for all Kotlin/Native platforms.\nA plugin for generating BuildConstants for any kind of Gradle projects: Java, Kotlin, Groovy, etc. Designed for KTS scripts.\nBuildConfig for Kotlin Multiplatform Project\nPlugin to facilitate debugging iOS applications using Kotlin Native in Xcode. Defines Kotlin files as source code, with basic highlighting. Allows you to set breakpoints and includes llvm support to view data in the debug window. Xcode does not officially support custom language definitions, but they also don't explicitly block them.\nDokka is a documentation engine for Kotlin, performing the same function as javadoc for Java. Just like Kotlin itself, Dokka fully supports mixed-language Java/Kotlin projects. It understands standard Javadoc comments in Java files and KDoc comments in Kotlin files, and can generate documentation in multiple formats including standard Javadoc, HTML and Markdown.\n🦄 Real-time analysis of Jetpack Compose composable functions' stability directly within Android Studio or IntelliJ.\nNucleus is the native desktop platform for the JVM. Combined with Compose Multiplatform, it forms the most complete, most performant, and most deeply integrated desktop application stack ever built — on any language, any runtime, any platform.\nGradle Plugin to build Swift code as part of your Kotlin Multiplatform project. With this plugin, you can access Swift-only iOS libraries, such as CryptoKit and experiment with Swift to Kotlin interoperability.\nKotlin/Native compiler plugin that generates Parcelable implementations for Darwin (Apple) targets. Allows writing Parcelable classes for all Darwin targets, similary to the Android's kotlin-parcelize plugin. Can be also used together with the kotlin-parcelize plugin to write Parcelable classes in the commonMain source set.\nCollects all dependencies and licenses of gradle projects (Kotlin Multiplatform) and provides an easy to integrate Attribution / Open Source library UI to integrate in Compose / Android targets.\nPower-Assert gradle plugin\nThe Kotlin Power-assert compiler plugin improves the debugging experience by providing detailed failure messages with contextual information. It simplifies the process of writing tests by automatically generating intermediate values in failure messages. It helps you understand why a test failed without needing complex assertion libraries.\nTestBalloon is a DSL-based Kotlin-first test framework. It lets you configure tests with plain Kotlin instead of restrictive, annotation-based magic. TestBalloon's concise API is extremely flexible and easy to customize for any test setup.\nConvert SVG/XML icons into Compose ImageVector with convenient code formatting. Plugin provides ability to one-click conversion or icon pack creation with batch export.\nAutomates the migration of Android Jetpack Compose projects to Compose Multiplatform by converting resource imports, annotations, and references. Built with KMP and Compose Desktop, it speeds up tedious migration tasks.",
+          "node_type": "group",
+          "title": "🛠 Tooling"
+        }
+      ],
+      "title": "Resources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Napier",
+              "description": "logger",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169042425,
+                "language": "Kotlin",
+                "last_commit": "2026-07-07T17:47:13Z",
+                "owner": "AAkira",
+                "repo": "Napier",
+                "stars": 999
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kermit",
+              "description": "logger",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 254470560,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T12:43:17Z",
+                "owner": "touchlab",
+                "repo": "Kermit",
+                "stars": 1023
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KmLogging",
+              "description": "logger",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 332284926,
+                "language": "Kotlin",
+                "last_commit": "2026-04-17T02:39:39Z",
+                "owner": "DiamondEdge1",
+                "repo": "KmLogging",
+                "stars": 135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kotlin-logging",
+              "description": "logger",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62350009,
+                "language": "Kotlin",
+                "last_commit": "2026-05-27T06:26:37Z",
+                "owner": "oshai",
+                "repo": "kotlin-logging",
+                "stars": 3107
+              }
+            }
+          ],
+          "description": "Napier is a logger library for Kotlin Multiplatform. It supports for the Android, Darwin(iOS, macOS, watchOS, tvOS), JVM, JavaScript. Logs written in common module are displayed on logger viewer of each platform.\nKermit is a Kotlin Multiplatform logging utility with composable log outputs. The library provides prebuilt loggers for outputting to platform logging tools such as Logcat and NSLog.\nKotlin multiplatform logging. High performance, composable and simple to use.\nLightweight Multiplatform logging framework for Kotlin, written in Pure Kotlin. A convenient and performant logging facade.",
+          "node_type": "group",
+          "title": "📋 Log"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ktor",
+              "description": "http client",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40136600,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T12:55:30Z",
+                "owner": "ktorio",
+                "repo": "ktor",
+                "stars": 14499
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ktorfit",
+              "description": "Retrofit for Kotlin Multiplatform on KTS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 203655484,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T03:52:05Z",
+                "owner": "Foso",
+                "repo": "Ktorfit",
+                "stars": 2079
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apollo GraphQL",
+              "description": "GraphQL client",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69469299,
+                "language": "Kotlin",
+                "last_commit": "2026-08-21T10:07:14Z",
+                "owner": "apollographql",
+                "repo": "apollo-kotlin",
+                "stars": 3972
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WebRTC KMP",
+              "description": "WebRTC client",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 329550581,
+                "language": "Kotlin",
+                "last_commit": "2025-09-07T09:21:01Z",
+                "owner": "shepeliev",
+                "repo": "webrtc-kmp",
+                "stars": 315
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Krossbow",
+              "description": "WebSocket client",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190066229,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T22:52:31Z",
+                "owner": "joffrey-bion",
+                "repo": "krossbow",
+                "stars": 277
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MOKO SocketIo",
+              "description": "Socket.IO implementation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 261455652,
+                "language": "Kotlin",
+                "last_commit": "2024-08-24T14:37:26Z",
+                "owner": "icerockdev",
+                "repo": "moko-socket-io",
+                "stars": 157
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rsocket",
+              "description": "RSocket Kotlin multi-platform implementation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109894810,
+                "language": "Kotlin",
+                "last_commit": "2025-03-11T22:37:11Z",
+                "owner": "rsocket",
+                "repo": "rsocket-kotlin",
+                "stars": 615
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kt-search",
+              "description": "Elasticsearch & OpenSearch client",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 494038243,
+                "language": "Kotlin",
+                "last_commit": "2026-07-03T09:03:58Z",
+                "owner": "jillesvangurp",
+                "repo": "kt-search",
+                "stars": 154
+              }
+            }
+          ],
+          "description": "Ktor includes a multiplatform asynchronous HTTP client, which allows you to make requests and handle responses, extend its functionality with plugins (formerly known as features), such as authentication, JSON serialization, and so on.\nHTTP client / Kotlin Symbol Processor for Kotlin Multiplatform (Android,Js, Jvm , Native, iOS) using KSP and Ktor clients inspired by Retrofit https://foso.github.io/Ktorfit\nA strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform.\nWebRTC Kotlin Multiplatform SDK\nA coroutine-based Kotlin multi-platform WebSocket client and STOMP 1.2 client over web sockets.\nThis is a Kotlin Multiplatform library that provides real-time, event-based communication for iOS and Android.\nRSocket is a binary protocol for use on byte stream transports such as TCP, WebSockets and Aeron.\nMulti platform kotlin client for Elasticsearch & Opensearch with easily extendable Kotlin DSLs for queries, mappings, bulk, and more.",
+          "node_type": "group",
+          "title": "🌎 Network"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Multiplatform-Settings",
+              "description": "Key-Value preferences",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132682692,
+                "language": "Kotlin",
+                "last_commit": "2025-09-07T16:58:51Z",
+                "owner": "russhwolf",
+                "repo": "multiplatform-settings",
+                "stars": 2247
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KVault",
+              "description": "secure key-value storage",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 279557202,
+                "language": "Kotlin",
+                "last_commit": "2024-06-07T12:23:49Z",
+                "owner": "Liftric",
+                "repo": "KVault",
+                "stars": 315
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SQLDelight",
+              "description": "SQLite database",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44677680,
+                "language": "Kotlin",
+                "last_commit": "2026-08-21T17:53:11Z",
+                "owner": "sqldelight",
+                "repo": "sqldelight",
+                "stars": 6862
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Realm",
+              "description": "NoSQL database",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 235075339,
+                "language": "Kotlin",
+                "last_commit": "2025-10-31T19:10:34Z",
+                "owner": "realm",
+                "repo": "realm-kotlin",
+                "stars": 1102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kotbase",
+              "description": "NoSQL JSON document database",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 518984559,
+                "language": "Kotlin",
+                "last_commit": "2026-07-11T05:17:20Z",
+                "owner": "jeffdgr8",
+                "repo": "kotbase",
+                "stars": 123
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kotlin Multiplatform AppDirs",
+              "description": "User storage/settings/config directories for all platforms (desktop and Android)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 578459054,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T18:13:23Z",
+                "owner": "Syer10",
+                "repo": "Kotlin-Multiplatform-AppDirs",
+                "stars": 105
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Store 5",
+              "description": "Kotlin Library for Async Data Loading and Caching",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226169258,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T08:48:43Z",
+                "owner": "MobileNativeFoundation",
+                "repo": "Store",
+                "stars": 3415
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cache4k",
+              "description": "In-memory Cache",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 298499491,
+                "language": "Kotlin",
+                "last_commit": "2026-08-20T06:52:40Z",
+                "owner": "ReactiveCircus",
+                "repo": "cache4k",
+                "stars": 376
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SQLiter",
+              "description": "SQLite driver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 155441879,
+                "language": "C",
+                "last_commit": "2025-09-26T16:20:50Z",
+                "owner": "touchlab",
+                "repo": "SQLiter",
+                "stars": 213
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SQLlin",
+              "description": "Low-level API for SQLite in Kotlin Multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 570015389,
+                "language": "C",
+                "last_commit": "2026-08-21T10:48:00Z",
+                "owner": "ctripcorp",
+                "repo": "SQLlin",
+                "stars": 272
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KStore",
+              "description": "File-based object storage",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 533381136,
+                "language": "Kotlin",
+                "last_commit": "2026-08-10T14:23:33Z",
+                "owner": "xxfast",
+                "repo": "KStore",
+                "stars": 673
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KSafe",
+              "description": "Encrypted key-value storage with Hardware-Backed Security",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 988975957,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T00:24:02Z",
+                "owner": "ioannisa",
+                "repo": "KSafe",
+                "stars": 329
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Universal-Cache",
+              "description": "Kotlin caching and request sharing",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 592076216,
+                "language": "Kotlin",
+                "last_commit": "2025-03-13T10:19:23Z",
+                "owner": "Andrew0000",
+                "repo": "Universal-Cache",
+                "stars": 88
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kotlin-cacheable",
+              "description": "Annotation-based caching library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 713685225,
+                "language": "Kotlin",
+                "last_commit": "2026-05-07T13:38:19Z",
+                "owner": "mori-atsushi",
+                "repo": "kotlin-cacheable",
+                "stars": 103
+              }
+            }
+          ],
+          "description": "This is a Kotlin library for Multiplatform apps, so that common code can persist key-value data\nIt acts as an iOS Keychain wrapper and implements encrypted SharedPreferences for Android.\nSQLDelight generates typesafe kotlin APIs from your SQL statements. It verifies your schema, statements, and migrations at compile-time and provides IDE features like autocomplete and refactoring which make writing and maintaining SQL simple.\nRealm is a mobile database that runs directly inside phones, tablets or wearables. This repository holds the source code for the Kotlin SDK for Realm, which runs on Kotlin Multiplatform and Android.\nKotlin Multiplatform library for Couchbase Lite—a lightweight, embedded, NoSQL JSON document database—supporting SQL++, key/value, and full-text search queries; observability; binary attachments; and data sync.\nGet app data directory in all desktops (Linux/Mac/Windows) as well as user-scoped data directory on Android\nA Store is responsible for managing a particular data request. When you create an implementation of a Store, you provide it with a Fetcher, a function that defines how data will be fetched over network. You can also define how your Store will cache data in-memory and on-disk.\nProvides a simple in-memory key-value cache for Kotlin Multiplatform, with support for time-based (expiration) and size-based evictions.\nSQLiter is a SQLite driver for Kotlin Native, currently Apple and Windows variants. It is designed to serve as a driver to power user-friendly libraries rather than something to use directly. Currently SQLiter powers the SQLDelight library on native clients.\nSQLlin is a Kotlin Multiplatform SQLite library that based on DSL and KSP. You can write SQL statements with your Kotlin code and these can be verified by Kotlin compiler.\nA Kotlin multiplatform library that assists in saving and restoring objects to and from disk\nAn Effortless Enterprise-Grade Encrypted key-value storage for Kotlin Multiplatform and Native Android with Hardware-Backed Security.\nKotlin Flow caching and request sharing. Main idea: don't request data more times than it's needed.\nKotlin Cacheable is an annotation-based caching library for Kotlin Multiplatform.",
+          "node_type": "group",
+          "title": "📦 Storage"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MOKO Permissions",
+              "description": "System permissions manager",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 204852840,
+                "language": "Kotlin",
+                "last_commit": "2025-08-28T10:13:18Z",
+                "owner": "icerockdev",
+                "repo": "moko-permissions",
+                "stars": 658
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Grant",
+              "description": "Permission library for Android & iOS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1139895555,
+                "language": "Kotlin",
+                "last_commit": "2026-08-01T23:26:06Z",
+                "owner": "brewkits",
+                "repo": "Grant",
+                "stars": 103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Alert-KMP",
+              "description": "Local and Native Notifications Library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 824011298,
+                "language": "Kotlin",
+                "last_commit": "2024-12-15T16:30:58Z",
+                "owner": "KhubaibKhan4",
+                "repo": "Alert-KMP",
+                "stars": 105
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MOKO Geo",
+              "description": "Location manager",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 229683003,
+                "language": "Kotlin",
+                "last_commit": "2025-08-29T03:13:27Z",
+                "owner": "icerockdev",
+                "repo": "moko-geo",
+                "stars": 241
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MOKO Biometry",
+              "description": "System biometry manager",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 329245775,
+                "language": "Kotlin",
+                "last_commit": "2025-02-07T18:03:37Z",
+                "owner": "icerockdev",
+                "repo": "moko-biometry",
+                "stars": 79
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MOKO Media",
+              "description": "System media manager",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 204862829,
+                "language": "Kotlin",
+                "last_commit": "2026-02-08T16:24:05Z",
+                "owner": "icerockdev",
+                "repo": "moko-media",
+                "stars": 188
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MediaPlayer-KMP",
+              "description": "A Comprehensive Media Player for Kotlin Multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 824861524,
+                "language": "Kotlin",
+                "last_commit": "2025-09-29T07:38:30Z",
+                "owner": "KhubaibKhan4",
+                "repo": "MediaPlayer-KMP",
+                "stars": 307
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kable",
+              "description": "Coroutines-powered API for interacting with Bluetooth Low Energy devices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 293227216,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T09:25:24Z",
+                "owner": "JuulLabs",
+                "repo": "kable",
+                "stars": 1184
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Blue-Falcon",
+              "description": "A Bluetooth kotlin multiplatform library for iOS and Android",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202539590,
+                "language": "Kotlin",
+                "last_commit": "2026-08-18T09:10:03Z",
+                "owner": "Reedyuk",
+                "repo": "blue-falcon",
+                "stars": 486
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kontrol",
+              "description": "Debug menu",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 403580882,
+                "language": "Kotlin",
+                "last_commit": "2026-03-19T10:05:24Z",
+                "owner": "chopyourbrain",
+                "repo": "kontrol",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KMPNotifier",
+              "description": "Firebase Push Notification library for iOS and Android",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 717626777,
+                "language": "Kotlin",
+                "last_commit": "2026-08-15T18:56:12Z",
+                "owner": "mirzemehdi",
+                "repo": "KMPNotifier",
+                "stars": 656
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Compass",
+              "description": "🧭 Location toolkit for geocoding, geolocation, and autocomplete",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 772795864,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T08:12:49Z",
+                "owner": "jordond",
+                "repo": "compass",
+                "stars": 445
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Connectivity",
+              "description": "Retrieve and monitor internet connectivity",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 811617911,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T07:52:09Z",
+                "owner": "jordond",
+                "repo": "connectivity",
+                "stars": 741
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kScan",
+              "description": "Barcode Scanner",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 883420546,
+                "language": "Kotlin",
+                "last_commit": "2026-05-28T02:11:25Z",
+                "owner": "ismai117",
+                "repo": "KScan",
+                "stars": 341
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Alarmee",
+              "description": "Alarm scheduler with local notifications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 883711432,
+                "language": "Kotlin",
+                "last_commit": "2026-06-02T06:01:30Z",
+                "owner": "Tweener",
+                "repo": "alarmee",
+                "stars": 319
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kamera",
+              "description": "A camera library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 857451193,
+                "language": "Kotlin",
+                "last_commit": "2026-08-07T11:29:38Z",
+                "owner": "Kashif-E",
+                "repo": "Kamera",
+                "stars": 572
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Camposer",
+              "description": "Compose Multiplatform camera library for Android and iOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 537219026,
+                "language": "Kotlin",
+                "last_commit": "2026-08-10T15:12:40Z",
+                "owner": "ujizin",
+                "repo": "Camposer",
+                "stars": 299
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CountryPicker-KMP",
+              "description": "Country selection with Dial codes, Currencies, Flags and ISO codes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1014271734,
+                "language": "Kotlin",
+                "last_commit": "2026-05-07T18:08:02Z",
+                "owner": "stevdza-san",
+                "repo": "CountryPicker-KMP",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KSensor",
+              "description": "Live Sensors",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 982069022,
+                "language": "Kotlin",
+                "last_commit": "2026-08-22T18:01:56Z",
+                "owner": "ShadAdman",
+                "repo": "KSensor",
+                "stars": 126
+              }
+            }
+          ],
+          "description": "Kotlin Multiplatform library for providing runtime permissions on iOS & Android\nKotlin Multiplatform permission library for Android & iOS. No Fragment/Activity needed, ViewModel-first, Compose Multiplatform ready. Fixes Android dead clicks & iOS deadlocks.\nNative notifications, Toasts, and Alerts for Kotlin Multiplatform.\nGeolocation access for mobile (android & ios) Kotlin Multiplatform development\nThis is a Kotlin Multiplatform library that provides authentication by FaceId and TouchId (Fingerprint)\nThis is a Kotlin Multiplatform library that provides media picking in common code (photo/video) and video player controls.\nFeatures: Platform-agnostic support for Android, iOS, Web, and Desktop. Compose Multiplatform integration, YouTube video and audio playback, streaming support, event handling, ReelsView support, AutoPlay, and Authentication Token implementation.\nKotlin Asynchronous Bluetooth Low Energy provides a simple Coroutines-powered API for interacting with Bluetooth Low Energy devices.\nA Bluetooth \"Cross Platform\" Kotlin Multiplatform library for iOS, Android, MacOS, Raspberry Pi and Javascript. Bluetooth in general has the same functionality for all platforms, e.g. connect to device, fetch services, fetch characteristics.\nA Kotlin Multiplatform library for creating debug menu.\nKotlin Multiplatform Push Notification Library using Firebase for iOS and Android.\nCompass is a Kotlin Multiplatform library location toolkit. It provides a set of tools for working with location data, including geocoding, reverse geocoding, and more.\nConnectivity provides network monitoring capabilities for multiplatform projects. It can monitor network connectivity using native APIs on Android and Apple devices, or by making HTTP requests to specified hosts.\nKScan is a Compose Multiplatform library that makes it easy to scan barcodes in your apps\nA Kotlin/Compose Multiplatform library for easy alarm and local notification scheduling on both Android and iOS.\nA camera library for Compose Multiplatform\nCamera library built with Compose Multiplatform for photo/video capture, zoom, focus-on-tap, flash/torch, exposure control, and optional code scanning.\nA lightweight KMP library that simplifies country selection by providing Country enum with Dial codes, Currencies, Flags and ISO codes—Adopted for Android, iOS, Desktop, and Web.\nLive Sensors/States data from Android & iOS targets",
+          "node_type": "group",
+          "title": "📱 Device"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Koin",
+              "description": "DI framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93515203,
+                "language": "Kotlin",
+                "last_commit": "2026-06-15T08:55:27Z",
+                "owner": "InsertKoinIO",
+                "repo": "koin",
+                "stars": 10013
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kodein",
+              "description": "DI framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34046231,
+                "language": "Kotlin",
+                "last_commit": "2026-07-21T07:40:56Z",
+                "owner": "kosi-libs",
+                "repo": "Kodein",
+                "stars": 3335
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kotlin-inject",
+              "description": "DI framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194859139,
+                "language": "Kotlin",
+                "last_commit": "2026-01-07T08:15:10Z",
+                "owner": "evant",
+                "repo": "kotlin-inject",
+                "stars": 1504
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Koject",
+              "description": "KSP DI framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 605139896,
+                "language": "Kotlin",
+                "last_commit": "2026-06-02T11:43:14Z",
+                "owner": "mori-atsushi",
+                "repo": "koject",
+                "stars": 125
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DI.kt",
+              "description": "DI for kotlin multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 334399967,
+                "language": "Kotlin",
+                "last_commit": "2025-01-09T10:44:35Z",
+                "owner": "sergeshustoff",
+                "repo": "dikt",
+                "stars": 144
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Metro",
+              "description": "DI framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 883876139,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T08:05:04Z",
+                "owner": "ZacSweers",
+                "repo": "metro",
+                "stars": 1370
+              }
+            }
+          ],
+          "description": "A pragmatic lightweight dependency injection framework for Kotlin developers. Koin is a DSL, a light container and a pragmatic API\nKodein is a very simple and yet very useful dependency retrieval container.\nA compile-time dependency injection library for kotlin.\nKoject is a DI Container Library for Kolin Multiplatform using KSP.\nSimple DI with compile-time dependency graph validation for kotlin multiplatform. It uses IR to create method's bodies with dependency injection.\nKotlin compiler plugin–based DI combining ideas from Dagger, Anvil, and Kotlin‑Inject with added features.",
+          "node_type": "group",
+          "title": "💉 Dependency Injection"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KmpEssentials",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 801452364,
+                "language": "Kotlin",
+                "last_commit": "2026-06-30T03:09:16Z",
+                "owner": "Ares-Defence-Labs",
+                "repo": "KmpEssentials",
+                "stars": 360
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Evas",
+              "description": "Events and States for Kotlin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 827882526,
+                "language": "Kotlin",
+                "last_commit": "2025-11-22T21:25:04Z",
+                "owner": "sellmair",
+                "repo": "evas",
+                "stars": 194
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MVI Kotlin",
+              "description": "MVI framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 437014963,
+                "language": "Kotlin",
+                "last_commit": "2026-08-09T00:48:24Z",
+                "owner": "arkivanov",
+                "repo": "MVIKotlin",
+                "stars": 1027
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Orbit MVI",
+              "description": "MVI framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 323600732,
+                "language": "Kotlin",
+                "last_commit": "2026-08-08T06:50:51Z",
+                "owner": "orbit-mvi",
+                "repo": "orbit-mvi",
+                "stars": 1337
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FlowMVI",
+              "description": "Plugin-based MVI framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 477143989,
+                "language": "Kotlin",
+                "last_commit": "2026-05-31T14:47:34Z",
+                "owner": "respawn-llc",
+                "repo": "FlowMVI",
+                "stars": 943
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KMP-ObservableViewModel",
+              "description": "KMP ViewModels",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 568920097,
+                "language": "Kotlin",
+                "last_commit": "2026-07-30T18:24:10Z",
+                "owner": "rickclephas",
+                "repo": "KMP-ObservableViewModel",
+                "stars": 703
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VisualFSM",
+              "description": "FSM-based MVI framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 495870417,
+                "language": "Kotlin",
+                "last_commit": "2026-01-14T12:07:01Z",
+                "owner": "Kontur-Mobile",
+                "repo": "VisualFSM",
+                "stars": 89
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Redux Kotlin",
+              "description": "Redux framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188472766,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T05:54:00Z",
+                "owner": "reduxkotlin",
+                "repo": "redux-kotlin",
+                "stars": 511
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FlowRedux",
+              "description": "Statemachine library with nice DSL",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184753749,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T08:43:50Z",
+                "owner": "freeletics",
+                "repo": "FlowRedux",
+                "stars": 784
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mobius.kt",
+              "description": "Mobius Framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147952971,
+                "language": "Kotlin",
+                "last_commit": "2026-08-18T06:47:14Z",
+                "owner": "DrewCarlson",
+                "repo": "mobius.kt",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MOKO MVVM",
+              "description": "MVVM framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 204883322,
+                "language": "Kotlin",
+                "last_commit": "2024-04-18T12:22:17Z",
+                "owner": "icerockdev",
+                "repo": "moko-mvvm",
+                "stars": 1097
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Premo",
+              "description": "Presentation Model (aka View Model) and Navigation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 264552757,
+                "language": "Kotlin",
+                "last_commit": "2024-05-01T19:37:19Z",
+                "owner": "dmdevgo",
+                "repo": "Premo",
+                "stars": 203
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Decompose",
+              "description": "componentization and navigation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 437015897,
+                "language": "Kotlin",
+                "last_commit": "2026-07-08T15:01:39Z",
+                "owner": "arkivanov",
+                "repo": "Decompose",
+                "stars": 2867
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Decompose-Router",
+              "description": "navigation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 599478957,
+                "language": "Kotlin",
+                "last_commit": "2026-08-10T09:34:29Z",
+                "owner": "xxfast",
+                "repo": "Decompose-Router",
+                "stars": 281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ballast",
+              "description": "State Management framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 429665847,
+                "language": "Kotlin",
+                "last_commit": "2026-06-10T03:45:57Z",
+                "owner": "copper-leaf",
+                "repo": "ballast",
+                "stars": 163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Essenty/Lifecycle",
+              "description": "lifecycle handling in the Kotlin Multiplatform common code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 385374863,
+                "language": "Kotlin",
+                "last_commit": "2026-08-09T00:46:09Z",
+                "owner": "arkivanov",
+                "repo": "Essenty",
+                "stars": 584
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "multiplatform-paging",
+              "description": "Pagination library for KMM by",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 488572129,
+                "language": "Kotlin",
+                "last_commit": "2025-09-03T13:54:26Z",
+                "owner": "cashapp",
+                "repo": "multiplatform-paging",
+                "stars": 657
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lazy-pagination-compose",
+              "description": "Pagination library for Compose Multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 771539205,
+                "language": "Kotlin",
+                "last_commit": "2026-03-30T08:35:35Z",
+                "owner": "Ahmad-Hamwi",
+                "repo": "lazy-pagination-compose",
+                "stars": 189
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kmp-viewmodel",
+              "description": "Kotlin Multiplatform ViewModel",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 593616264,
+                "language": "Kotlin",
+                "last_commit": "2026-06-04T22:27:28Z",
+                "owner": "hoc081098",
+                "repo": "kmp-viewmodel",
+                "stars": 173
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KStateMachine",
+              "description": "Multiplatform state machine library with coroutines support",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 296142904,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T16:31:42Z",
+                "owner": "KStateMachine",
+                "repo": "kstatemachine",
+                "stars": 509
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rinku",
+              "description": "Deep Link Handling for Kotlin Multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 781157188,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T08:08:34Z",
+                "owner": "theolm",
+                "repo": "Rinku",
+                "stars": 180
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Resaca",
+              "description": "Scope ViewModels to a Composable, surviving config. changes and navigation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 431489181,
+                "language": "Kotlin",
+                "last_commit": "2026-08-17T21:10:58Z",
+                "owner": "sebaslogen",
+                "repo": "resaca",
+                "stars": 649
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Circuit",
+              "description": "Compose-driven architecture for Kotlin and Android applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 523011227,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T12:50:10Z",
+                "owner": "slackhq",
+                "repo": "circuit",
+                "stars": 1848
+              }
+            }
+          ],
+          "description": "KmpEssentials is a library that contains apis (40+ Modules) to accelerate your development. Everything from managing the Battery, File System, getting Package information, or taking Photos. Supports iOS, Android & AppleWatch\nEvas is a library providingEvents: A performant, scalable and most importantly scoped Event-Channel integrated with coroutines. States: A pragmatic state container.\nMVIKotlin is a Kotlin Multiplatform framework that provides a way of (not only) writing shared code using MVI pattern. It also includes powerful debug tools like logging and time travel.\nOrbit is a Redux/MVI-like library for KMM, targetting Android and iOS.\nFlowMVI is a KMP MVI library based on coroutines with a rich DSL and a powerful plugin system.\nA library (previously known as KMM-ViewModel) that allows you to use AndroidX/Kotlin ViewModels with SwiftUI.\nVisualFSM is a Kotlin Multiplatform library for implements an FSM-based (Finite-state machine) MVI pattern and a set of tools for visualization and analysis of FSM's diagram of states.\nRedux implementation for Kotlin (supports multiplatform JVM, native, JS, WASM)\nBuilding async. running Kotlin Multiplatform state machine made easy with a DSL and coroutines.\nKotlin Multiplatform Mobius implementation.\nThis is a Kotlin Multiplatform library that provides architecture components of Model-View-ViewModel for UI applications. Components are lifecycle-aware on Android.\nPremo is a Kotlin Multiplatform library that helps to implement the Presentation Layer and share it on iOS, Android, Desktop and Web. Focus on writing logic instead of solving common and boring UI related issues: lifecycle, persistence, navigation, etc.\nDecompose is a Kotlin Multiplatform library for breaking down your code into lifecycle-aware business logic components (aka BLoC), with routing functionality and pluggable UI (Jetpack Compose, Android Views, SwiftUI, JS React, etc.)\nA Compose-multiplatform navigation library that leverage Decompose to create an API inspired by Conductor\nOpinionated Application State Management framework for Kotlin Multiplatform\nEssenty provides the Lifecycle API to help with lifecycle handling in the common code. It is very similar to Android Activity lifecycle.\nA Kotlin Multiplatform library for pagination with the same API as AndroidX Paging\nIntuitive and customizable Compose Multiplatform pagination composables that are built on top of lazy scrollables.\nA Kotlin Multiplatform library that provides shared MVVM. Supports Android Parcelable, Kotlin Parcelize, AndroidX SavedStateHandle for restoring state after process death.\nKStateMachine is a Kotlin DSL library for creating state machines and statecharts.\nA Kotlin Multiplatform library for deeplink handling\nScope ViewModels (or plain objects) to a Composable, surviving configuration changes and navigation, to break your app's logic into smaller and reusable components.\nCompose-first Kotlin framework that simplifies building multiplatform applications by unifying UI and business logic through a declarative, unidirectional data flow architecture.",
+          "node_type": "group",
+          "title": "🏗 Architecture"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CrashKiOS",
+              "description": "Crash reporting for Kotlin/Native iOS applications",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 218658246,
+                "language": "JavaScript",
+                "last_commit": "2026-08-22T23:09:20Z",
+                "owner": "touchlab",
+                "repo": "CrashKiOS",
+                "stars": 338
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NSExceptionKt",
+              "description": "Better crash reports on Apple platforms",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 514878174,
+                "language": "Kotlin",
+                "last_commit": "2026-08-17T19:13:28Z",
+                "owner": "rickclephas",
+                "repo": "NSExceptionKt",
+                "stars": 272
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "trckr",
+              "description": "KSP processor",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 507389413,
+                "language": "Kotlin",
+                "last_commit": "2026-04-26T21:32:37Z",
+                "owner": "dzmpr",
+                "repo": "trckr",
+                "stars": 49
+              }
+            }
+          ],
+          "description": "Thin library that provides symbolicated crash reports for Kotlin code on iOS.\nUnhandled Kotlin exceptions logging for Apple platforms.\nKSP processer that simplifies the collection of analytics",
+          "node_type": "group",
+          "title": "🔍 Analytics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Kotest",
+              "description": "test framework",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47071082,
+                "language": "Kotlin",
+                "last_commit": "2026-08-14T01:36:29Z",
+                "owner": "kotest",
+                "repo": "kotest",
+                "stars": 4788
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TestBalloon",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 843511464,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T18:15:35Z",
+                "owner": "infix-de",
+                "repo": "testBalloon",
+                "stars": 248
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Turbine",
+              "description": "test library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 283549473,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T19:29:39Z",
+                "owner": "cashapp",
+                "repo": "turbine",
+                "stars": 2855
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MockingBird",
+              "description": "test framework",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 260901865,
+                "language": "Kotlin",
+                "last_commit": "2024-12-09T09:54:29Z",
+                "owner": "careem",
+                "repo": "mockingbird",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mockative",
+              "description": "Mocking with KSP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 422101224,
+                "language": "Kotlin",
+                "last_commit": "2026-06-26T09:51:08Z",
+                "owner": "mockative",
+                "repo": "mockative",
+                "stars": 330
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MocKMP",
+              "description": "Mocking with KSP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 426590561,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T09:45:18Z",
+                "owner": "kosi-libs",
+                "repo": "MocKMP",
+                "stars": 223
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mokkery",
+              "description": "Mocking library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 652785006,
+                "language": "Kotlin",
+                "last_commit": "2026-08-23T22:18:21Z",
+                "owner": "lupuuss",
+                "repo": "Mokkery",
+                "stars": 438
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Assertk",
+              "description": "Fluent assertions library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88210079,
+                "language": "Kotlin",
+                "last_commit": "2025-12-08T19:25:40Z",
+                "owner": "assertk-org",
+                "repo": "assertk",
+                "stars": 826
+              }
+            }
+          ],
+          "description": "Powerful, elegant and flexible test framework for Kotlin with additional assertions, property testing and data driven testing\nFast, powerful and easy-to-use Kotlin test framework, built from the ground up for Kotlin Multiplatform and coroutines\nA small testing library for kotlinx.coroutines Flow\nA Koltin multiplatform library that provides an easier way to mock and write unit tests for a multiplatform project\nMocking for Kotlin/Native and Kotlin Multiplatform using the Kotlin Symbol Processing API (KSP)\nA Kotlin/Multiplatform Kotlin Symbol Processor that generates Mocks & Fakes.\nMokkery is a mocking library for Kotlin Multiplatform, easy to use, boilerplate-free and compiler plugin driven. Highly inspired by MockK.\nKotlin Multiplatform snapshot ((c|k)lip) manager for tests. Automatically generates and asserts against a persistent Any::toString() representation of the object until you explicitly trigger an update. Powered by kotlin compiler plugin to inject relevant keys and paths.\nFluent assertions library for Kotlin with full Multiplatform support.",
+          "node_type": "group",
+          "title": "🩺 Test"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Signum",
+              "description": "Crypto/PKI/ASN.1 Library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 700518667,
+                "language": "Kotlin",
+                "last_commit": "2026-08-21T11:12:55Z",
+                "owner": "a-sit-plus",
+                "repo": "signum",
+                "stars": 194
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cryptography-Kotlin",
+              "description": "Type-safe Multiplatform cryptography library for Kotlin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 492907371,
+                "language": "Kotlin",
+                "last_commit": "2026-08-21T17:34:35Z",
+                "owner": "whyoleg",
+                "repo": "cryptography-kotlin",
+                "stars": 660
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Libsodium",
+              "description": "Libsodium bindings for Kotlin Multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 328144791,
+                "language": "Kotlin",
+                "last_commit": "2026-06-09T11:40:53Z",
+                "owner": "ionspin",
+                "repo": "kotlin-multiplatform-libsodium",
+                "stars": 146
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "korlibs-crypto",
+              "description": "Pure Kotlin cryptography library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 769544034,
+                "language": "WebAssembly",
+                "last_commit": "2026-08-23T17:29:15Z",
+                "owner": "korlibs",
+                "repo": "korlibs",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cryptohash",
+              "description": "A set of cryptographic (and not so cryptographic) hashing functions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 347486833,
+                "language": "Kotlin",
+                "last_commit": "2026-05-11T07:42:32Z",
+                "owner": "appmattus",
+                "repo": "crypto",
+                "stars": 108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "murmurhash",
+              "description": "library for hashing using MurmurHash",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 435700452,
+                "language": "Kotlin",
+                "last_commit": "2026-08-20T22:54:28Z",
+                "owner": "goncalossilva",
+                "repo": "kotlinx-murmurhash",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Diglol Crypto",
+              "description": "Diglol Crypto for Kotlin Multiplatform.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 398510327,
+                "language": "C",
+                "last_commit": "2024-06-10T18:17:02Z",
+                "owner": "diglol",
+                "repo": "crypto",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KotlinCrypto/MACs",
+              "description": "Message Authentication Code algorithms for Kotlin Multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 609891204,
+                "language": "Kotlin",
+                "last_commit": "2025-09-19T13:42:53Z",
+                "owner": "KotlinCrypto",
+                "repo": "MACs",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KotlinCrypto/hash",
+              "description": "Cryptographic hash functions for Kotlin Multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 598183506,
+                "language": "Kotlin",
+                "last_commit": "2025-09-19T12:45:29Z",
+                "owner": "KotlinCrypto",
+                "repo": "hash",
+                "stars": 109
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KotlinCrypto/secure-random",
+              "description": "cryptographically secure random data from system sources",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 598156059,
+                "language": "Kotlin",
+                "last_commit": "2026-03-01T09:53:49Z",
+                "owner": "KotlinCrypto",
+                "repo": "random",
+                "stars": 36
+              }
+            }
+          ],
+          "description": "Multiplatform crypto with ECDSA, RSA, ECDH, AES, HMAC, KDF (PBKDF2, HKDF, scrypt), hardware-backed crypto on Android/iOS, platform-native attestation, biometric authentication, X.509 certificates, CSRs, JOSE/COSE data structures, and a full ASN.1 parser/encoder with DSL.\nThe library doesn’t implement any cryptography algorithm on its own, but wraps well-known future-proof solutions like OpenSSL 3.x, WebCrypto or JCA with type-safe multiplatform API providing uniform experience with aligned default behavior, and same expected results using identical parameters while allowing to use platform-specific capabilities.\nLibsodium bindings project uses libsodium c sources and libsodium.js to provide a kotlin multiplatform wrapper library for libsodium.\nSecureRandom, Hash (MD5/SHA1/SHA256), AES\nxxHash, Blake, HMAC, Keccak, MD5, SHA, etc\nKotlin Multiplatform (KMP) library for MurmurHash, a non-cryptographic hash function for general hash-based lookup focused on simplicity and performance.\nLots of crypto algorithms for Kotlin Multiplatform.\nMessage Authentication Code algorithms for Kotlin Multiplatform: HmacMD5, HmacSHA1, HmacSHA224, HmacSHA256, HmacSHA384, HmacSHA512, HmacSHA512/224, HmacSHA512/256\nCryptographic hash functions for Kotlin Multiplatform: MD5, SHA-1, SHA-224, SHA-256, SHA-384, SHA-512, SHA-512/224, SHA-512/256\nKotlin Multiplatform library for obtaining cryptographically secure random data from the system. Modeled after Java's SecureRandom class, it provides a simple API surface area. Under the hood it utilizes system functions so that SecureRandom is accessible from common code.",
+          "node_type": "group",
+          "title": "🔑 Crypto"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "kotlinx-io",
+              "description": "Kotlin multiplatform I/O library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105809601,
+                "language": "Kotlin",
+                "last_commit": "2026-08-05T19:54:06Z",
+                "owner": "Kotlin",
+                "repo": "kotlinx-io",
+                "stars": 1545
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Okio",
+              "description": "access, store, and process your data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17812502,
+                "language": "Kotlin",
+                "last_commit": "2026-08-21T17:17:13Z",
+                "owner": "lysine-dev",
+                "repo": "okio",
+                "stars": 9035
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "korlibs",
+              "description": "access, store, and process your data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 769544034,
+                "language": "WebAssembly",
+                "last_commit": "2026-08-23T17:29:15Z",
+                "owner": "korlibs",
+                "repo": "korlibs",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Suparnatural FS",
+              "description": "file system i/o",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191891618,
+                "language": "HTML",
+                "last_commit": "2022-12-11T16:24:12Z",
+                "owner": "suparngp",
+                "repo": "kotlin-multiplatform-projects",
+                "stars": 134
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FileKit",
+              "description": "Pick and save Files, Medias and Folder",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 782211616,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T11:14:33Z",
+                "owner": "vinceglb",
+                "repo": "FileKit",
+                "stars": 1527
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kompress",
+              "description": "Compression APIs for Kotlin Multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1115580231,
+                "language": "Kotlin",
+                "last_commit": "2026-07-12T02:51:47Z",
+                "owner": "karmakrafts",
+                "repo": "Kompress",
+                "stars": 66
+              }
+            }
+          ],
+          "description": "A multiplatform Kotlin library providing basic IO primitives. kotlinx-io is based on Okio but does not preserve backward compatibility with it.\nOkio is a library that complements java.io and java.nio to make it much easier to access, store, and process your data.\nLibraries for Charsets, Encodings, Checksums, Compression, I/O, Streams, Virtual File System, Networking, Http, WebSockets, Serialization…\nKotlin multiplatform file system i/o for android, iOS, Java and NodeJS\nFiles, Medias, Folder Picker and File saver library for Kotlin Multiplatform and Compose Multiplatform\nBlazingly fast compression- and archive-APIs implemented in pure Kotlin for Kotlin Multiplatform",
+          "node_type": "group",
+          "title": "📁 File"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Arrow",
+              "description": "Functional companion to Kotlin's Standard Library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86057409,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T11:40:05Z",
+                "owner": "arrow-kt",
+                "repo": "arrow",
+                "stars": 6577
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Result",
+              "description": "success/failure result",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45111154,
+                "language": "Kotlin",
+                "last_commit": "2026-02-09T17:47:24Z",
+                "owner": "kittinunf",
+                "repo": "Result",
+                "stars": 935
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ApiResult",
+              "description": "Declarative Error Handling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 683362703,
+                "language": "Kotlin",
+                "last_commit": "2026-05-31T14:41:15Z",
+                "owner": "respawn-llc",
+                "repo": "ApiResult",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sandwich",
+              "description": "Handling API responses and exceptions in Kotlin for Retrofit, Ktor, Ktorfit",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 261363701,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T09:15:05Z",
+                "owner": "skydoves",
+                "repo": "sandwich",
+                "stars": 1770
+              }
+            }
+          ],
+          "description": "Arrow aims to provide a lingua franca of interfaces and abstractions across Kotlin libraries. For this, it includes the most popular data types such as Option, Either, Validated etc and functional operators such as traverse and computation blocks to empower users to write pure FP apps and libraries built atop higher order abstractions.\nThis is a tiny framework for modelling success/failure of operations in Kotlin. In short, it is a model in type of Result<V: Any?, E : Throwable>.\nApiResult is a Kotlin Multiplatform declarative error handling framework that is performant, easy to use and feature-rich.\nSandwich is an adaptable and lightweight sealed API library designed for handling API responses and exceptions in Kotlin for Retrofit, Ktor, and Kotlin Multiplatform.",
+          "node_type": "group",
+          "title": "🚀 Language extensions"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "kotlinx.serialization",
+              "description": "JSON serialization",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97827246,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T10:47:54Z",
+                "owner": "Kotlin",
+                "repo": "kotlinx.serialization",
+                "stars": 5942
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ghost Serializer",
+              "description": "High-performance compile-time JSON serializer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1213956071,
+                "language": "Kotlin",
+                "last_commit": "2026-08-22T09:25:15Z",
+                "owner": "juanchurtado1991",
+                "repo": "ghost-serializer",
+                "stars": 65
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ksoup (fleeksoft)",
+              "description": "HTML & XML Parser (Jsoup Alternative)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 719100459,
+                "language": "Kotlin",
+                "last_commit": "2026-02-19T13:23:42Z",
+                "owner": "fleeksoft",
+                "repo": "ksoup",
+                "stars": 566
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "XmlUtil",
+              "description": "Component of the XMLUtil library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143553364,
+                "language": "Kotlin",
+                "last_commit": "2026-08-17T11:14:39Z",
+                "owner": "pdvrieze",
+                "repo": "xmlutil",
+                "stars": 504
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tomlkt",
+              "description": "Multiplatform TOML encoder and decoder, powered by kotlinx.serialization",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 444688345,
+                "language": "Kotlin",
+                "last_commit": "2026-07-27T11:23:59Z",
+                "owner": "eav-eav-eav",
+                "repo": "tomlkt",
+                "stars": 138
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ksoup (MohamedRejeb)",
+              "description": "Kotlin Multiplatform HTML Parser",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 638220512,
+                "language": "Kotlin",
+                "last_commit": "2026-08-22T00:49:44Z",
+                "owner": "MohamedRejeb",
+                "repo": "Ksoup",
+                "stars": 475
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Essenty/Parcelable",
+              "description": "@Parcelize annotation for Kotlin Multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 385374863,
+                "language": "Kotlin",
+                "last_commit": "2026-08-09T00:46:09Z",
+                "owner": "arkivanov",
+                "repo": "Essenty",
+                "stars": 584
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pbandk",
+              "description": "Kotlin code generator and runtime for Protocol Buffers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202946849,
+                "language": "Kotlin",
+                "last_commit": "2026-01-23T08:22:43Z",
+                "owner": "streem",
+                "repo": "pbandk",
+                "stars": 296
+              }
+            }
+          ],
+          "description": "Kotlin serialization consists of a compiler plugin, that generates visitor code for serializable classes, runtime library with core serialization API and support libraries with various serialization formats.\nByte-first JSON serializer for KMP (Android, iOS, JVM) with KSP compile-time codegen, thread-local pools, and coexistence with kotlinx.serialization, Gson, and Jackson. Integrations for Ktor, Retrofit, and Spring Boot. Optional ghost-protobuf module for proto3 JSON mapping.\nKsoup: A Kotlin Multiplatform port of the renowned Java library, jsoup. Designed to scrape, parse, manipulate, and clean HTML and XML documents with ease and efficiency.\nXmlUtil is a set of packages that supports multiplatform XML in Kotlin.\nLightweight and easy to use kotlinx.serialization plugin for TOML serialization and deserialization.\nKsoup is a lightweight Kotlin Multiplatform library for parsing HTML, extracting HTML tags, attributes, and text, and encoding and decoding HTML entities.\nEssenty brings both Android Parcelable interface and the annotation from kotlin-parcelize compiler plugin to Kotlin Multiplatform, so they both can be used in common code.\nKotlin Object Notation - Lightweight DSL to build fluid JSON trees\nIt has the core set of protobuf features implemented and is being used in production.",
+          "node_type": "group",
+          "title": "🗃 Serializer"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Kotlinx DateTime",
+              "description": "Date & Time library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 215849579,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T08:24:20Z",
+                "owner": "Kotlin",
+                "repo": "kotlinx-datetime",
+                "stars": 2825
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Island Time",
+              "description": "Date & Time library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202192185,
+                "language": "Kotlin",
+                "last_commit": "2026-08-12T01:36:53Z",
+                "owner": "erikc5000",
+                "repo": "island-time",
+                "stars": 80
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kronos Multiplatform",
+              "description": "Network Time Protocol (NTP) client",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 618633459,
+                "language": "Swift",
+                "last_commit": "2025-12-22T09:59:41Z",
+                "owner": "softartdev",
+                "repo": "Kronos-Multiplatform",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KCron",
+              "description": "Kotlin multiplatform Cron library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 309119232,
+                "language": "Kotlin",
+                "last_commit": "2025-12-19T16:06:12Z",
+                "owner": "Scogun",
+                "repo": "kcron-common",
+                "stars": 40
+              }
+            }
+          ],
+          "description": "A multiplatform Kotlin library for working with date and time.\nA Kotlin Multiplatform library for working with dates and times, heavily inspired by the java.time library.\nKotlin Multiplatform library for network time synchronization. Extension for Kotlinx DateTime library.\nKotlin Multiplatform library for build and parsing cron expression. Support custom date time providers. Has default implementation based on Kotlinx DateTime library.",
+          "node_type": "group",
+          "title": "⏰ Date-Time"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Kotlinx Coroutines",
+              "description": "Kotlin coroutines",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61722736,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T13:33:23Z",
+                "owner": "Kotlin",
+                "repo": "kotlinx.coroutines",
+                "stars": 13804
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "molecule",
+              "description": "Build a StateFlow stream using Jetpack Compose",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 375453281,
+                "language": "Kotlin",
+                "last_commit": "2026-08-22T23:55:52Z",
+                "owner": "cashapp",
+                "repo": "molecule",
+                "stars": 2221
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Reaktive",
+              "description": "Reactive Extensions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 174194386,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T06:24:41Z",
+                "owner": "badoo",
+                "repo": "Reaktive",
+                "stars": 1214
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kotlinx Atomicfu",
+              "description": "atomic operations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99576820,
+                "language": "Kotlin",
+                "last_commit": "2026-08-21T17:25:49Z",
+                "owner": "Kotlin",
+                "repo": "kotlinx-atomicfu",
+                "stars": 1109
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stately",
+              "description": "Kotlin Multiplatform State Library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153214696,
+                "language": "Kotlin",
+                "last_commit": "2025-10-29T17:31:22Z",
+                "owner": "touchlab",
+                "repo": "Stately",
+                "stars": 647
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kmp-resilient",
+              "description": "Resilience patterns for suspend functions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1110256710,
+                "language": "Kotlin",
+                "last_commit": "2026-08-11T22:53:29Z",
+                "owner": "santimattius",
+                "repo": "kmp-resilient",
+                "stars": 147
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KMP-NativeCoroutines",
+              "description": "Swift wrapper for Kotlin Coroutines",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 374341212,
+                "language": "Kotlin",
+                "last_commit": "2026-08-18T07:18:02Z",
+                "owner": "rickclephas",
+                "repo": "KMP-NativeCoroutines",
+                "stars": 1325
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FlowExt",
+              "description": "Kotlinx Coroutines Flow Extensions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 373383253,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T22:14:57Z",
+                "owner": "hoc081098",
+                "repo": "FlowExt",
+                "stars": 420
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Human-Readable",
+              "description": "A small set of data formatting utilities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 696961730,
+                "language": "Kotlin",
+                "last_commit": "2026-08-10T05:24:28Z",
+                "owner": "jacobras",
+                "repo": "Human-Readable",
+                "stars": 230
+              }
+            }
+          ],
+          "description": "Library support for Kotlin coroutines\nBuild a StateFlow or Flow stream using Jetpack Compose and NOT Jetpack Compose UI!\nKotlin multiplatform implementation of Reactive Extensions.\nThe idiomatic way to use atomic operations in Kotlin.\nStately is a state utility library to facilitate state management in Kotlin Multiplatform.\nA Kotlin Multiplatform library providing resilience patterns (Timeout, Retry, Circuit Breaker, Rate Limiter, Bulkhead, Hedging, Cache, Fallback) for suspend functions. Compose them declaratively with a small DSL and observe runtime telemetry via Flow.\nLibrary to use Kotlin Coroutines from Swift code in KMP apps\nA Kotlin Multiplatform library, that provides many operators and extensions to Kotlin Coroutines Flow.\nWorks with kotlinx-datetime and offers features like relative time (\"2 hours ago\"), durations and file sizes.",
+          "node_type": "group",
+          "title": "➿ Asynchronous"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KuiklyUI",
+              "description": "High-performance, full-platform development framework with unified codebase.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 971782145,
+                "language": "Kotlin",
+                "last_commit": "2026-08-20T03:42:51Z",
+                "owner": "Tencent-TDS",
+                "repo": "KuiklyUI",
+                "stars": 3407
+              }
+            }
+          ],
+          "description": "Tencent's cross-platform UI framework supporting Android, iOS, HarmonyOS, Web, and Mini Programs. Features native rendering, dynamic updates, and hot reload capabilities.",
+          "node_type": "group",
+          "title": "🎨 UI Frameworks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Appyx",
+              "description": "Navigation, transition animations, gestures, UI components.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 493334393,
+                "language": "Kotlin",
+                "last_commit": "2026-08-22T07:09:48Z",
+                "owner": "bumble-tech",
+                "repo": "appyx",
+                "stars": 1259
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Voyager",
+              "description": "Compose Multiplatform Navigation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 387613592,
+                "language": "Kotlin",
+                "last_commit": "2026-06-06T18:13:22Z",
+                "owner": "adrielcafe",
+                "repo": "voyager",
+                "stars": 3088
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Calf",
+              "description": "Compose Adaptive Look & Feel",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 674932206,
+                "language": "Kotlin",
+                "last_commit": "2026-07-27T20:09:52Z",
+                "owner": "MohamedRejeb",
+                "repo": "Calf",
+                "stars": 1640
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Compose DND",
+              "description": "Compose Drag And Drop",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 613391859,
+                "language": "Kotlin",
+                "last_commit": "2026-07-08T15:57:35Z",
+                "owner": "MohamedRejeb",
+                "repo": "compose-dnd",
+                "stars": 506
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Window Size Class",
+              "description": "Window Size Class",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 656061208,
+                "language": "Kotlin",
+                "last_commit": "2024-10-15T21:39:22Z",
+                "owner": "chrisbanes",
+                "repo": "material3-windowsizeclass-multiplatform",
+                "stars": 361
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "coil",
+              "description": "Image loading for Compose Multiplatform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201684760,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T05:55:05Z",
+                "owner": "coil-kt",
+                "repo": "coil",
+                "stars": 11881
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Compose-Imageloader",
+              "description": "Compose Image library for Kotlin Multiplatform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 502954331,
+                "language": "Kotlin",
+                "last_commit": "2026-08-13T16:47:34Z",
+                "owner": "qdsfdhvh",
+                "repo": "compose-imageloader",
+                "stars": 482
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kamel",
+              "description": "Compose Multiplatform image loading.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 327244529,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T03:37:25Z",
+                "owner": "Kamel-Media",
+                "repo": "Kamel",
+                "stars": 795
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sketch",
+              "description": "Image loader for Compose Multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14798941,
+                "language": "Kotlin",
+                "last_commit": "2026-08-08T08:33:06Z",
+                "owner": "panpf",
+                "repo": "sketch",
+                "stars": 2402
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Compose Icons",
+              "description": "Open Source icon packs for Compose Multiplatform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 311134756,
+                "language": "Kotlin",
+                "last_commit": "2024-09-15T22:26:17Z",
+                "owner": "DevSrSouza",
+                "repo": "compose-icons",
+                "stars": 859
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Compose Rich Editor",
+              "description": "Provides Rich Editor component for Compose Multiplatform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 630584174,
+                "language": "Kotlin",
+                "last_commit": "2026-08-21T15:03:48Z",
+                "owner": "MohamedRejeb",
+                "repo": "compose-rich-editor",
+                "stars": 1835
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Material Theme Preferences",
+              "description": "Switching Dark/Light Material themes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 436947042,
+                "language": "Kotlin",
+                "last_commit": "2026-05-16T15:17:05Z",
+                "owner": "softartdev",
+                "repo": "MaterialThemePrefs",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Drag Select Compose",
+              "description": "Google Photos style drag-to-select multi-selection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 654306203,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T05:52:23Z",
+                "owner": "jordond",
+                "repo": "drag-select-compose",
+                "stars": 247
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MaterialKolor",
+              "description": "Generate Material3 color schemes from a seed color.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 666878035,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T06:51:51Z",
+                "owner": "jordond",
+                "repo": "MaterialKolor",
+                "stars": 926
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Compose-placeholder",
+              "description": "Modifier for displaying 'placeholder' UI while content is loading.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 708597627,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T05:08:30Z",
+                "owner": "eygraber",
+                "repo": "compose-placeholder",
+                "stars": 327
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kmPalette",
+              "description": "A port of Androidx Palette, generate palettes from image.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 690222635,
+                "language": "Kotlin",
+                "last_commit": "2026-08-18T22:38:49Z",
+                "owner": "jordond",
+                "repo": "kmpalette",
+                "stars": 291
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Reveal",
+              "description": "Reveal effect for Compose Multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 568775557,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T12:56:17Z",
+                "owner": "svenjacobs",
+                "repo": "reveal",
+                "stars": 614
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Compose Media Player",
+              "description": "Multiplatform Compose Media Player",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 918046791,
+                "language": "Kotlin",
+                "last_commit": "2026-08-11T22:12:56Z",
+                "owner": "kdroidFilter",
+                "repo": "ComposeMediaPlayer",
+                "stars": 487
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KMP-ComposeUIViewController",
+              "description": "KMP-ComposeUIViewController.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 687438692,
+                "language": "Kotlin",
+                "last_commit": "2026-07-29T20:03:28Z",
+                "owner": "GuilhE",
+                "repo": "KMP-ComposeUIViewController",
+                "stars": 92
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KodeView",
+              "description": "KodeView",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 658419623,
+                "language": "Kotlin",
+                "last_commit": "2026-01-12T20:37:30Z",
+                "owner": "SnipMeDev",
+                "repo": "KodeView",
+                "stars": 118
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "QRose",
+              "description": "Multiplatform QR code generator",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 704899229,
+                "language": "Kotlin",
+                "last_commit": "2026-03-13T08:10:21Z",
+                "owner": "alexzhirkevich",
+                "repo": "qrose",
+                "stars": 525
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rebugger",
+              "description": "A recomposition debugger",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 619400431,
+                "language": "Kotlin",
+                "last_commit": "2025-08-24T15:46:05Z",
+                "owner": "theapache64",
+                "repo": "rebugger",
+                "stars": 1046
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Compose WebView Multiplatform",
+              "description": "WebView for Compose Multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 685404698,
+                "language": "Kotlin",
+                "last_commit": "2025-12-23T08:37:41Z",
+                "owner": "KevinnZou",
+                "repo": "compose-webview-multiplatform",
+                "stars": 1005
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KMP Maps",
+              "description": "Universal map component for Compose Multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1054087870,
+                "language": "Kotlin",
+                "last_commit": "2026-06-02T08:49:01Z",
+                "owner": "software-mansion",
+                "repo": "kmp-maps",
+                "stars": 218
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KMP Sharing",
+              "description": "Universal sharing function for Compose Multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1068504278,
+                "language": "Kotlin",
+                "last_commit": "2026-06-02T09:01:19Z",
+                "owner": "software-mansion",
+                "repo": "kmp-sharing",
+                "stars": 81
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KMP Wheel Picker",
+              "description": "Modular wheel picker for Compose Multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1080690166,
+                "language": "Kotlin",
+                "last_commit": "2026-01-08T09:01:06Z",
+                "owner": "software-mansion-labs",
+                "repo": "kmp-wheel-picker",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ZoomImage",
+              "description": "Library for zoom images",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 647222866,
+                "language": "Kotlin",
+                "last_commit": "2026-08-23T15:04:38Z",
+                "owner": "panpf",
+                "repo": "zoomimage",
+                "stars": 645
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "peekaboo",
+              "description": "Image Picker Library for Compose Multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 721608337,
+                "language": "Kotlin",
+                "last_commit": "2024-09-26T01:29:22Z",
+                "owner": "onseok",
+                "repo": "peekaboo",
+                "stars": 386
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FlexibleBottomSheet",
+              "description": "Flexible BottomSheet library Compose Multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 724970183,
+                "language": "Kotlin",
+                "last_commit": "2026-07-02T04:26:31Z",
+                "owner": "skydoves",
+                "repo": "FlexibleBottomSheet",
+                "stars": 1119
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "orbitral",
+              "description": "Dynamic animation library for Compose Multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 509655833,
+                "language": "Kotlin",
+                "last_commit": "2025-10-15T09:41:57Z",
+                "owner": "skydoves",
+                "repo": "Orbital",
+                "stars": 1199
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "compose-stable-marker",
+              "description": "Compose stable markers for KMP to tell stable/immutable guarantees",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 670467725,
+                "language": "Kotlin",
+                "last_commit": "2026-01-03T01:52:43Z",
+                "owner": "skydoves",
+                "repo": "compose-stable-marker",
+                "stars": 267
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wavy slider",
+              "description": "A dancing slider/progress bar.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 662135204,
+                "language": "Kotlin",
+                "last_commit": "2026-07-15T08:11:29Z",
+                "owner": "mahozad",
+                "repo": "wavy-slider",
+                "stars": 246
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Koala Plot",
+              "description": "A charting and plotting library for Compose Multiplatform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 518287159,
+                "language": "Kotlin",
+                "last_commit": "2026-08-08T21:00:03Z",
+                "owner": "KoalaPlot",
+                "repo": "koalaplot-core",
+                "stars": 782
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vico",
+              "description": "A powerful and extensible multiplatform chart library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 338848755,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T06:11:03Z",
+                "owner": "patrykandpatrick",
+                "repo": "vico",
+                "stars": 3153
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Precompose",
+              "description": "Compose Multiplatform Navigation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 349750473,
+                "language": "Kotlin",
+                "last_commit": "2025-02-20T05:11:55Z",
+                "owner": "Tlaster",
+                "repo": "PreCompose",
+                "stars": 937
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Compose Action Menu",
+              "description": "An easy-to-use action/overflow menu for Compose UI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 442299930,
+                "language": "Kotlin",
+                "last_commit": "2026-06-22T08:15:44Z",
+                "owner": "jacobras",
+                "repo": "ComposeActionMenu",
+                "stars": 87
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KMPAuth",
+              "description": "Compose Multiplatform Authentication Library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 736339532,
+                "language": "Kotlin",
+                "last_commit": "2026-08-15T18:56:42Z",
+                "owner": "mirzemehdi",
+                "repo": "KMPAuth",
+                "stars": 549
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kottie",
+              "description": "Compose Multiplatform Animation library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 738651050,
+                "language": "Kotlin",
+                "last_commit": "2026-03-09T06:24:59Z",
+                "owner": "ismai117",
+                "repo": "kottie",
+                "stars": 303
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Carbon Compose",
+              "description": "IBM's Carbon design system in Compose multiplatform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 707513802,
+                "language": "Kotlin",
+                "last_commit": "2026-07-01T22:05:48Z",
+                "owner": "gabrieldrn",
+                "repo": "carbon-compose",
+                "stars": 332
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Compose Cupertino",
+              "description": "Compose Multiplatform UI components for iOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 636411288,
+                "language": "Kotlin",
+                "last_commit": "2025-10-05T13:47:00Z",
+                "owner": "alexzhirkevich",
+                "repo": "compose-cupertino",
+                "stars": 1647
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ConstraintLayout Compose Multiplatform",
+              "description": "ConstraintLayout Compose for Multiplatform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 711725142,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T15:50:25Z",
+                "owner": "Lavmee",
+                "repo": "constraintlayout-compose-multiplatform",
+                "stars": 305
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Compose Settings",
+              "description": "Compose Settings.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 360568361,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T08:15:45Z",
+                "owner": "alorma",
+                "repo": "Compose-Settings",
+                "stars": 568
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "material-motion-compose",
+              "description": "Material Motion for Compose Multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 347555255,
+                "language": "Kotlin",
+                "last_commit": "2026-05-28T14:39:34Z",
+                "owner": "fornewid",
+                "repo": "material-motion-compose",
+                "stars": 663
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tiamat",
+              "description": "Compose Multiplatform navigation library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 751822259,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T05:12:37Z",
+                "owner": "ComposeGears",
+                "repo": "Tiamat",
+                "stars": 265
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Landscapist",
+              "description": "Compose image loading library for Kotlin Multiplatform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 298332340,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T06:16:10Z",
+                "owner": "skydoves",
+                "repo": "landscapist",
+                "stars": 2574
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "colorpicker-compose",
+              "description": "Color Picker library for Kotlin Multiplatform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 467780856,
+                "language": "Kotlin",
+                "last_commit": "2026-08-20T14:53:39Z",
+                "owner": "skydoves",
+                "repo": "colorpicker-compose",
+                "stars": 757
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Calendar",
+              "description": "Calendar library for Kotlin Multiplatform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 182417603,
+                "language": "Kotlin",
+                "last_commit": "2026-08-13T09:41:50Z",
+                "owner": "kizitonwose",
+                "repo": "Calendar",
+                "stars": 5586
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Compose Unstyled",
+              "description": "Unstyled components for Compose Multiplatform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 792741661,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T07:45:16Z",
+                "owner": "composablehorizons",
+                "repo": "compose-unstyled",
+                "stars": 1214
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lumo-ui",
+              "description": "A Gradle plugin to build your Compose component library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 887384997,
+                "language": "Kotlin",
+                "last_commit": "2026-05-11T05:53:24Z",
+                "owner": "nomanr",
+                "repo": "lumo-ui",
+                "stars": 592
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "compose-fluent-ui",
+              "description": "Fluent Design UI library for Compose Multiplatform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 574321009,
+                "language": "Kotlin",
+                "last_commit": "2026-08-18T17:03:35Z",
+                "owner": "compose-fluent",
+                "repo": "compose-fluent-ui",
+                "stars": 725
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CraftD",
+              "description": "Server Driven UI Library for Compose Multiplatform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 788958834,
+                "language": "Kotlin",
+                "last_commit": "2026-07-04T18:10:46Z",
+                "owner": "CodandoTV",
+                "repo": "CraftD",
+                "stars": 81
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lumen",
+              "description": "Compose Multiplatform coachmark library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1149853597,
+                "language": "Kotlin",
+                "last_commit": "2026-08-20T07:44:31Z",
+                "owner": "aldefy",
+                "repo": "Lumen",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ComposeCollapsingTopBar",
+              "description": "Compose Multiplatform collapsing toolbar",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 825947316,
+                "language": "Kotlin",
+                "last_commit": "2026-05-30T12:20:48Z",
+                "owner": "flaringapp",
+                "repo": "ComposeCollapsingTopBar",
+                "stars": 69
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "swipe",
+              "description": "Swipe gesture actions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 468421242,
+                "language": "Kotlin",
+                "last_commit": "2026-03-09T07:11:04Z",
+                "owner": "saket",
+                "repo": "swipe",
+                "stars": 851
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swipeable-KMP",
+              "description": "swipeable component.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1122244467,
+                "language": "Kotlin",
+                "last_commit": "2026-06-13T06:50:40Z",
+                "owner": "stevdza-san",
+                "repo": "Swipeable-KMP",
+                "stars": 72
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hyphen",
+              "description": "markdown editor",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1169410864,
+                "language": "Kotlin",
+                "last_commit": "2026-07-30T18:46:49Z",
+                "owner": "DenserMeerkat",
+                "repo": "hyphen",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "compose-pinch-grid",
+              "description": "pinch-to-resize grid for Compose Multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1182918026,
+                "language": "Kotlin",
+                "last_commit": "2026-03-17T16:11:22Z",
+                "owner": "aldefy",
+                "repo": "compose-pinch-grid",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cascade-editor",
+              "description": "rich text editor for Compose Multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1143094103,
+                "language": "Kotlin",
+                "last_commit": "2026-08-17T06:18:24Z",
+                "owner": "linreal",
+                "repo": "cascade-editor",
+                "stars": 187
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RikkaUi",
+              "description": "RikkaUI design system.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1194179466,
+                "language": "Kotlin",
+                "last_commit": "2026-04-29T07:51:42Z",
+                "owner": "rainxchzed",
+                "repo": "RikkaUi",
+                "stars": 160
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Table-KMP",
+              "description": "Data grid for Compose Multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1199968009,
+                "language": "Kotlin",
+                "last_commit": "2026-04-03T14:13:10Z",
+                "owner": "mamon-aburawi",
+                "repo": "Table-KMP",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ComposePdfReader",
+              "description": "PDF rendering and text-extraction for Compose Multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1215248910,
+                "language": "Kotlin",
+                "last_commit": "2026-08-18T05:27:58Z",
+                "owner": "NucleusFramework",
+                "repo": "ComposePdfReader",
+                "stars": 68
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "compose-alert-banner",
+              "description": "Alert banner for Compose",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 875774535,
+                "language": "Kotlin",
+                "last_commit": "2026-04-10T19:18:40Z",
+                "owner": "mofeejegi",
+                "repo": "compose-alert-banner",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "charts",
+              "description": "Charts for Compose Multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 738676725,
+                "language": "Kotlin",
+                "last_commit": "2026-08-15T13:28:07Z",
+                "owner": "HDCharts",
+                "repo": "charts",
+                "stars": 452
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KMPLiquidGlass",
+              "description": "Liquid Glass effect for Compose Multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1121926267,
+                "language": "Kotlin",
+                "last_commit": "2026-06-19T09:26:44Z",
+                "owner": "Kashif-E",
+                "repo": "KMPLiquidGlass",
+                "stars": 130
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Haze",
+              "description": "Visual effects (blur and more) for Compose Multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 710434447,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T03:28:27Z",
+                "owner": "chrisbanes",
+                "repo": "haze",
+                "stars": 2484
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Multiplatform Markdown Renderer",
+              "description": "Markdown renderer for Compose Multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 412759104,
+                "language": "Kotlin",
+                "last_commit": "2026-08-23T22:13:55Z",
+                "owner": "mikepenz",
+                "repo": "multiplatform-markdown-renderer",
+                "stars": 1049
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DrawBox",
+              "description": "Canvas drawing library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 436719814,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T06:17:20Z",
+                "owner": "akshay2211",
+                "repo": "DrawBox",
+                "stars": 420
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LazySurface",
+              "description": "A lazy 2D-plane layout for Compose Multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1300126238,
+                "language": "Kotlin",
+                "last_commit": "2026-08-08T13:45:51Z",
+                "owner": "07jasjeet",
+                "repo": "LazySurface",
+                "stars": 59
+              }
+            }
+          ],
+          "description": "Model-driven navigation + UI components with gesture control for Compose Multiplatform\nA multiplatform navigation library built for, and seamlessly integrated with, Jetpack Compose.\nCalf is a library that allows you to easily create adaptive UIs for your Compose Multiplatform apps.\nCompose DND is a library that allows you to easily add drag and drop functionality to your Jetpack Compose and Compose Multiplatform projects.\nCompose Multiplatform: Material 3 Window Size Class\nImage loading for Compose Multiplatform.\nCompose Image library for Kotlin Multiplatform.\nAn asynchronous media loading library for Compose Multiplatform.\nSketch is an image loading library designed for Compose Multiplatform. It is powerful and rich in functions. In addition to basic functions, it also supports GIF, SVG, video thumbnails, Exif Orientation, etc.\nCompose Multiplatform icons is a pack of libraries that provide well known Icon Packs. The library usage is inspired by Compose Material Icons.\nA Rich text editor library for both Jetpack Compose and Compose Multiplatform, fully customizable and supports the common rich text editor features.\nKotlin Multiplatform library for easy switching Dark/Light Material themes on Compose.\nCompose Multiplatform library that allows you to easily implement a \"Google Photos\"-style multi-selection in your Compose apps.\nCompose multiplatform library for generating dynamic Material3 color schemes from a seed color.\nCompose multiplatform library which provides a modifier for displaying 'placeholder' UI while content is loading.\nA Compose Multiplatform library for generating color palettes from images, including the dominant color.\nA reveal effect (coach mark, tutorial, onboarding) for Compose Multiplatform (Android, iOS, desktop, Web)\nCompose Media Player is a video player library designed for Compose Multiplatform, supporting multiple platforms including Android, macOS, Windows, Linux and Compose Web (Wasm)\nKSP library for generating ComposeUIViewController and UIViewControllerRepresentable files when using Compose Multiplatform for iOS.\nKotlin Multiplatform syntax highlighting views.\nStyled QR code generation library for Compose Multiplatform.\nA simple Compose library to print the reason for recomposition in your window.\nA WebView library that offers essential WebView features for Compose Multiplatform. It supports loading URLs and HTML data, evaluating JavaScript, and managing cookies. Currently, it is available for Android, iOS, and Desktop platforms.\nUniversal map component for Compose Multiplatform, offering seamless integration with native map APIs on both Android and iOS platforms. Supports Google Maps on Android and Apple Maps or Google Maps on iOS, with customizable markers, GeoJSON support, and rich geometry features.\nUniversal sharing function for Compose Multiplatform. Single API for both Android and iOS, using native Android Intent system and iOS UIActivityViewController. Supports file sharing with proper MIME type detection and platform-specific customization options.\nModular wheel picker for Compose Multiplatform. Use your own composables for items and window, style items based on position, customize buffer size, animations, and scroll friction. Supports programmatic scrolling with animation.\nLibrary for zoom images, supported Android View, Compose and Compose Multiplatform; supported double-click zoom, One or two fingers gesture zoom, single-finger drag, inertial sliding, positioning, rotation, super-large image subsampling and other functions.\nKotlin Multiplatform library for Compose Multiplatform, designed for seamless integration of an image picker feature in iOS and Android applications.\nAdvanced Compose Multiplatform bottom sheet for segmented sizing and non-modal type, similar to Google Maps.\nJetpack Compose animation library that allows you to implement animations such as shared element transition.\nCompose stable markers were originated Compose runtime, which improves Compose performance by telling stable and skippable guarantees to the compose compiler from non-compose dependent modules.\nInpired by Android 13 squiggly progress bar. Also, a demo for how to create a multiplatform Composable.\nBuild great-looking interactive plots for Android, Desktop, iOS, and Web using a single API and common code base. Supports over 7 graph types.\nA powerful and extensible multiplatform chart library. Offers native support for Jetpack Compose, Compose Multiplatform, and the Android view system.\nCompose Multiplatform Navigation && ViewModel library, inspired by Jetpack Navigation, ViewModel and Lifecycle.\nCompose Multiplatform Authentication Library targetting android and iOS.\nCompose Multiplatform animation library that parses Adobe After Effects animations. Inspired by Airbnb/Lottie.\nCarbon compose is a Compose Multiplatform implementation of Carbon, an open source design system from IBM.\nCompose Cupertino is a Kotlin Multiplatform library for the Compose Multiplatform UI framework. It provides various UI components and adaptive wrappers for making native-looking iOS applications.\nUseful when implementing larger layouts with more complicated alignment requirements.\nCompose Multiplatform #Compose Settings library.\nA library for implementing motion system in Material Components for Compose Multiplatform.\nKey features: code generation free, pure Compose, nested navigation support, back-stack alteration (+deep-links), pass ANY types between screens as data, even lambdas, customizable transitions.\nA pluggable, highly optimized Jetpack Compose and Kotlin Multiplatform image loading library that fetches and displays network images with Glide, Coil, and Fresco.\nKotlin Multiplatform color picker library for getting colors from any images by tapping on the desired color.\nA highly customizable calendar library for Android and Compose Multiplatform, backed by RecyclerView for the view system, and LazyRow/LazyColumn for compose.\nUnstyled, fully accessible components for Jetpack Compose & Compose Multiplatform that you can customize to your heart's content.\nBeautifully designed, customizable UI components for Compose, ready to copy and paste into your apps.\nCompose Fluent UI is a multiplatform UI library that implements Fluent Design System using Compose Multiplatform. It provides an abundance of components for creating user interfaces similar to those in WinUI 3 applications.\nA Compose Multiplatform library to implement Server-Driven UI quickly and easily.\nCompose Multiplatform coachmark library. Real transparent cutouts, not dimmed overlays. Android + iOS.\nThe ultimate Compose Multiplatform collapsing toolbar library with dynamic sizing, different scroll modes, and extensive customization options\nSwipe gesture actions for Compose UI\nA highly customizable swipeable component that supports both dismiss and reveal behaviors.\n⌨️ WYSIWYG markdown editor library for Compose Multiplatform. Live formatting, keyboard shortcuts, clipboard, and undo/redo history.\nComposePinchGrid — Google Photos-style pinch-to-resize grid for Compose Multiplatform. Pinch to change column count with haptic feedback, breathing scale animation, and smooth transitions. Android, iOS, Desktop, Web.\nA block-based rich text editor for Compose Multiplatform - the Notion/Craft editing model, natively in Kotlin\nRikkaUI — composing elements into harmony. Shadcn/UI Inspired component library & design system for Jetpack Compose.\nA beautiful, responsive, and fully customizable data grid library built natively for Compose Multiplatform.\nA Kotlin Multiplatform PDF rendering and text-extraction library built on top of pdfium and Compose Multiplatform. Compose-first API, and a sample desktop/mobile reader with thumbnails, progressive rendering, and selectable text.\nA simple, customizable, and modern library for displaying alert banners in your Jetpack Compose, Compose Multiplatform and native iOS (Swift) applications.\nCharts for Jetpack Compose — Multiplatform (Android · iOS · Web · Desktop)\nCompose Multiplatform Liquid Glass effect\nCompose Multiplatform visual effects (blur and more)\nMarkdown renderer for Compose Multiplatform Projects (Android, iOS, Desktop, Web).\nKotlin Multiplatform drawing library with SVG export, undo/redo & shapes for Android, iOS, Web & Desktop.\nA lazy 2D-plane layout for Compose Multiplatform",
+          "node_type": "group",
+          "title": "🍎 Compose UI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MOKO Graphics",
+              "description": "Graphics primitives",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 215217361,
+                "language": "Kotlin",
+                "last_commit": "2025-06-16T10:57:03Z",
+                "owner": "icerockdev",
+                "repo": "moko-graphics",
+                "stars": 120
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vibrance",
+              "description": "Natural color mixing for Kotlin and Compose Multiplatform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1257861346,
+                "language": "Kotlin",
+                "last_commit": "2026-07-28T05:21:53Z",
+                "owner": "romainguy",
+                "repo": "vibrance",
+                "stars": 126
+              }
+            }
+          ],
+          "description": "This is a Kotlin Multiplatform library that provides graphics primitives to common code.\nNatural color mixing for Kotlin and Compose Multiplatform.",
+          "node_type": "group",
+          "title": "🎨 Graphics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Firebase Kotlin SDK",
+              "description": "A Kotlin-first SDK for Firebase",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 213915094,
+                "language": "Kotlin",
+                "last_commit": "2026-08-17T21:05:55Z",
+                "owner": "GitLiveApp",
+                "repo": "firebase-kotlin-sdk",
+                "stars": 1719
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "supabase-kt",
+              "description": "KMP Client for Supabase",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 495084592,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T13:42:18Z",
+                "owner": "supabase-community",
+                "repo": "supabase-kt",
+                "stars": 839
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "openai-kotlin",
+              "description": "OpenAI SDK",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 345180734,
+                "language": "Kotlin",
+                "last_commit": "2026-02-07T21:04:07Z",
+                "owner": "aallam",
+                "repo": "openai-kotlin",
+                "stars": 1839
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sentry SDK",
+              "description": "Sentry Kotlin Multiplatform SDK",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 285502515,
+                "language": "Kotlin",
+                "last_commit": "2026-08-13T03:46:49Z",
+                "owner": "getsentry",
+                "repo": "sentry-kotlin-multiplatform",
+                "stars": 206
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bitcoin-kmp",
+              "description": "Kotlin Multiplatform Bitcoin Library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 249715879,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T12:53:04Z",
+                "owner": "ACINQ",
+                "repo": "bitcoin-kmp",
+                "stars": 89
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "qBittorrent",
+              "description": "wrapper for the qBittorrent Web API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 324240683,
+                "language": "Kotlin",
+                "last_commit": "2026-08-17T04:45:31Z",
+                "owner": "DrewCarlson",
+                "repo": "qBittorrent-Kotlin",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cognito-idp",
+              "description": "AWS Cognito Identity Provider",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 278147738,
+                "language": "Kotlin",
+                "last_commit": "2025-10-27T14:45:53Z",
+                "owner": "Liftric",
+                "repo": "cognito-idp",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TMDb API",
+              "description": "access to TMDb API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 351336290,
+                "language": "Kotlin",
+                "last_commit": "2026-08-11T08:34:45Z",
+                "owner": "ChrisKruegerDev",
+                "repo": "tmdb-kotlin",
+                "stars": 249
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Growth Book SDK",
+              "description": "GrowthBook Kotlin SDK",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 445362249,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T13:16:38Z",
+                "owner": "growthbook",
+                "repo": "growthbook-kotlin",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ConfigCat",
+              "description": "Kotlin Multiplatform SDK for ConfigCat",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 518079622,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T19:21:57Z",
+                "owner": "configcat",
+                "repo": "kotlin-sdk",
+                "stars": 21
+              }
+            }
+          ],
+          "description": "The Firebase Kotlin SDK is a Kotlin-first SDK for Firebase. It's API is similar to the Firebase Android SDK Kotlin Extensions but also supports multiplatform projects, enabling you to use Firebase directly from your common source targeting iOS, Android or JS.\nSupabase is an open source Firebase alternative. Database, Auth, Storage, Edge Functions, Realtime, AI & Vectors\nKotlin client for OpenAI's API with multiplatform and coroutines capabilities.\nThis project is an experimental SDK for Kotlin Multiplatform. This SDK is a wrapper around different platforms such as JVM, Android, iOS, macOS, watchOS, tvOS that can be used on Kotlin Multiplatform.\nThis is a simple Kotlin Multiplatform library which implements most of the bitcoin protocol\nMultiplatform Kotlin wrapper for the qBittorrent Web API using Ktor.\nLightweight AWS Cognito Identity Provider client for Kotlin Multiplatform and Typescript projects.\nThis library gives access to TMDb API version 3 and 4 for mobile, desktop, and web applications. It supports Swift, Kotlin, and JavaScript by setting up as a Kotlin Multiplatform project.\nGrowthBook is an open-source platform for feature flagging and a/b testing built for data teams, engineers, and product managers. It's great whether you're looking to just analyze experiment results or looking to make it easier to deploy code.\nKotlin Multiplatform SDK for ConfigCat, a feature flag, feature toggle, and configuration management service. That lets you launch new features and change your software configuration remotely without actually (re)deploying code. ConfigCat even helps you do controlled roll-outs like canary releases and blue-green deployments.",
+          "node_type": "group",
+          "title": "🧩 Service SDK"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BigNum",
+              "description": "Big Numbers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 176085256,
+                "language": "Kotlin",
+                "last_commit": "2025-09-12T10:17:46Z",
+                "owner": "ionspin",
+                "repo": "kotlin-multiplatform-bignum",
+                "stars": 478
+              }
+            }
+          ],
+          "description": "Kotlin Multiplatform BigNum library is a pure kotlin implementation of arbitrary precision arithmetic operations. It follows the same approach as Kotlin does on JVM to keep the interface familiar.",
+          "node_type": "group",
+          "title": "🧮 Arithmetic"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Libres",
+              "description": "Resources manager.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 596690489,
+                "language": "Kotlin",
+                "last_commit": "2026-06-28T12:24:04Z",
+                "owner": "Skeptick",
+                "repo": "libres",
+                "stars": 221
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MOKO Resources",
+              "description": "System resources manager",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 204874263,
+                "language": "Kotlin",
+                "last_commit": "2026-05-06T11:00:18Z",
+                "owner": "icerockdev",
+                "repo": "moko-resources",
+                "stars": 1352
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kotlinx-Resources",
+              "description": "text resources manager",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 435578611,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T05:51:55Z",
+                "owner": "goncalossilva",
+                "repo": "kotlinx-resources",
+                "stars": 147
+              }
+            }
+          ],
+          "description": "String/Image resources generation in Kotlin Multiplatform.\nThis is a Kotlin Multiplatform library that provides access to the resources on iOS & Android with the support of the default system localization.\nKotlin Multiplatform (KMP) plugin and library that add support for reading resources in tests.The plugin and a library work in tandem to provide a unified API across platforms for reading resources from each source set's resources folder.",
+          "node_type": "group",
+          "title": "🛢 Resources"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Uri KMP",
+              "description": "A library for working with URIs in Kotlin Multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 484921607,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T03:44:05Z",
+                "owner": "eygraber",
+                "repo": "uri-kmp",
+                "stars": 289
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ByteBuffer",
+              "description": "Kotlin Multiplatform bytebuffer/byte[] wrapper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 326036989,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T07:11:46Z",
+                "owner": "DitchOoM",
+                "repo": "buffer",
+                "stars": 84
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zipline",
+              "description": "Run Kotlin/JS libraries in Kotlin/JVM and Kotlin/Native programs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41445081,
+                "language": "C",
+                "last_commit": "2026-08-24T05:49:56Z",
+                "owner": "cashapp",
+                "repo": "zipline",
+                "stars": 2298
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kase64",
+              "description": "Base64 encoder/decoder",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 466136003,
+                "language": "Kotlin",
+                "last_commit": "2026-08-21T05:46:54Z",
+                "owner": "saschpe",
+                "repo": "Kase64",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Colormath",
+              "description": "Multiplatform Kotlin color conversion and manipulation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139778270,
+                "language": "Kotlin",
+                "last_commit": "2026-08-18T02:46:07Z",
+                "owner": "ajalt",
+                "repo": "colormath",
+                "stars": 369
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GEOK",
+              "description": "Kotlin geometry library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121932486,
+                "language": "Kotlin",
+                "last_commit": "2024-08-05T13:03:40Z",
+                "owner": "piruin",
+                "repo": "geok",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FuzzyKot",
+              "description": "Fuzzy string matching",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1191921250,
+                "language": "Kotlin",
+                "last_commit": "2026-03-26T15:03:47Z",
+                "owner": "terrakok",
+                "repo": "FuzzyKot",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kotlin-semver",
+              "description": "Semantic versioning",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 444514222,
+                "language": "Kotlin",
+                "last_commit": "2026-06-29T04:32:24Z",
+                "owner": "z4kn4fein",
+                "repo": "kotlin-semver",
+                "stars": 156
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kim",
+              "description": "Kotlin Image Metadata",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 987991492,
+                "language": "Kotlin",
+                "last_commit": "2026-08-14T22:37:12Z",
+                "owner": "StefanOltmann",
+                "repo": "kim",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "XMP Core for Kotlin Multiplatform",
+              "description": "Kotlin Multiplatform port of Adobe's XMP SDK",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 987991354,
+                "language": "Kotlin",
+                "last_commit": "2026-08-10T23:02:10Z",
+                "owner": "StefanOltmann",
+                "repo": "xmpcore",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Highlights",
+              "description": "Kotlin Multiplatform syntax highlighting engine",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 644238604,
+                "language": "Kotlin",
+                "last_commit": "2026-08-13T19:43:53Z",
+                "owner": "SnipMeDev",
+                "repo": "Highlights",
+                "stars": 193
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KMPUtils",
+              "description": "Kotlin STL Extensions & Utils",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 557470802,
+                "language": "Kotlin",
+                "last_commit": "2026-06-01T12:30:58Z",
+                "owner": "respawn-llc",
+                "repo": "KMPUtils",
+                "stars": 91
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RSSParser",
+              "description": "A Kotlin Multiplatform library to parse a RSS Feed",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61429036,
+                "language": "Kotlin",
+                "last_commit": "2026-08-24T04:54:46Z",
+                "owner": "prof18",
+                "repo": "RSS-Parser",
+                "stars": 619
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JsonPathKt",
+              "description": "A lighter and more efficient implementation of JsonPath in Kotlin Multiplatform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 693236437,
+                "language": "Kotlin",
+                "last_commit": "2026-08-19T15:13:59Z",
+                "owner": "eygraber",
+                "repo": "JsonPathKt",
+                "stars": 64
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kotlin-csv",
+              "description": "Pure Kotlin CSV Reader/Writer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 200859123,
+                "language": "Kotlin",
+                "last_commit": "2026-06-12T00:24:26Z",
+                "owner": "jsoizo",
+                "repo": "kotlin-csv",
+                "stars": 750
+              }
+            }
+          ],
+          "description": "A library for working with URIs in Kotlin Multiplatform\nA kotlin multiplatform library that allows you to allocate and modify byte[] natively using an API similar to Java's ByteBuffer API.\nZipline works by embedding the QuickJS JavaScript engine in your Kotlin/JVM or Kotlin/Native program. It's a small and fast JavaScript engine that's well-suited to embedding in applications.\nBase64 encoder/decoder for Kotlin/Multiplatform. Supports Android, iOS, JavaScript and plain JVM environments.\nColormath is a Kotlin Multiplatform library for color manipulation and conversion.\nSmall geometry library for Java and Kotlin. Contains useful basic utilities that require on most application.\nFuzzy string matching for Kotlin Multiplatform.\nSemantic Versioning library for Kotlin Multiplatform.\nKotlin Multiplatform library for reading and writing image metadata\nKotlin Multiplatform library for reading and writing XMP (Extensible Metadata Platform) files\nKotlin Multiplatform library for analyzing and coloring syntax of code string\nKMPUtils is a collection of everything missing from the Kotlin Multiplatform Standard Library.\nRSS Parser is a Kotlin Multiplatform library for parsing RSS and Atom feeds. It supports Android, iOS, and the JVM.\nJsonPathKt provides a fast and performant way to work with JsonPath in Kotlin Multiplatform projects.\nPure Kotlin CSV Reader/Writer",
+          "node_type": "group",
+          "title": "🔧 Utils"
+        }
+      ],
+      "title": "Libraries"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T03:03:02.346Z",
+    "last_updated": "2026-08-24T13:54:28.846Z",
     "original_repository": "terrakok/kmp-awesome",
     "original_repository_id": 406327361,
     "original_repository_sha": "11134273e177939ff6b215a0b5c9ee56565ce0ba",
