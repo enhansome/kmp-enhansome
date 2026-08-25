@@ -149,7 +149,7 @@
                 "archived": false,
                 "id": 1153016582,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T16:21:24Z",
+                "last_commit": "2026-08-25T05:15:24Z",
                 "owner": "NucleusFramework",
                 "repo": "Nucleus",
                 "stars": 337
@@ -494,7 +494,7 @@
                 "last_commit": "2026-08-21T17:53:11Z",
                 "owner": "sqldelight",
                 "repo": "sqldelight",
-                "stars": 6863
+                "stars": 6865
               }
             },
             {
@@ -566,7 +566,7 @@
                 "archived": false,
                 "id": 298499491,
                 "language": "Kotlin",
-                "last_commit": "2026-08-20T06:52:40Z",
+                "last_commit": "2026-08-25T03:58:49Z",
                 "owner": "ReactiveCircus",
                 "repo": "cache4k",
                 "stars": 376
@@ -1045,7 +1045,7 @@
                 "archived": false,
                 "id": 883876139,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T17:46:46Z",
+                "last_commit": "2026-08-25T03:33:31Z",
                 "owner": "ZacSweers",
                 "repo": "metro",
                 "stars": 1371
@@ -1397,7 +1397,7 @@
                 "archived": false,
                 "id": 523011227,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T14:39:54Z",
+                "last_commit": "2026-08-25T03:26:34Z",
                 "owner": "slackhq",
                 "repo": "circuit",
                 "stars": 1848
@@ -2352,7 +2352,7 @@
                 "archived": false,
                 "id": 201684760,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T20:06:09Z",
+                "last_commit": "2026-08-25T05:45:48Z",
                 "owner": "coil-kt",
                 "repo": "coil",
                 "stars": 11881
@@ -2580,7 +2580,7 @@
                 "last_commit": "2026-03-13T08:10:21Z",
                 "owner": "alexzhirkevich",
                 "repo": "qrose",
-                "stars": 525
+                "stars": 526
               }
             },
             {
@@ -3464,7 +3464,7 @@
                 "last_commit": "2026-08-24T13:16:38Z",
                 "owner": "growthbook",
                 "repo": "growthbook-kotlin",
-                "stars": 31
+                "stars": 30
               }
             },
             {
@@ -3572,7 +3572,7 @@
                 "archived": false,
                 "id": 484921607,
                 "language": "Kotlin",
-                "last_commit": "2026-08-25T01:45:14Z",
+                "last_commit": "2026-08-25T03:02:10Z",
                 "owner": "eygraber",
                 "repo": "uri-kmp",
                 "stars": 289
@@ -3752,7 +3752,7 @@
                 "archived": false,
                 "id": 61429036,
                 "language": "Kotlin",
-                "last_commit": "2026-08-24T04:54:46Z",
+                "last_commit": "2026-08-25T03:10:07Z",
                 "owner": "prof18",
                 "repo": "RSS-Parser",
                 "stars": 619
@@ -3798,7 +3798,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:58:06.731Z",
+    "last_updated": "2026-08-25T05:52:36.515Z",
     "original_repository": "terrakok/kmp-awesome",
     "original_repository_id": 406327361,
     "original_repository_sha": "11134273e177939ff6b215a0b5c9ee56565ce0ba",
