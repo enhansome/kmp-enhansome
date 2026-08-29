@@ -639,7 +639,7 @@
                 "open_issues": 62,
                 "owner": "Foso",
                 "repo": "Ktorfit",
-                "stars": 2081,
+                "stars": 2082,
                 "topics": [
                   "android",
                   "annotation-processor",
@@ -3363,7 +3363,7 @@
                 "open_issues": 102,
                 "owner": "lysine-dev",
                 "repo": "okio",
-                "stars": 9038,
+                "stars": 9037,
                 "topics": [
                   "kotlin",
                   "kotlin-multiplatform"
@@ -3506,7 +3506,7 @@
                 "language": "Kotlin",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T23:48:13Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "arrow-kt",
                 "repo": "arrow",
                 "stars": 6581,
@@ -3647,7 +3647,7 @@
                 "open_issues": 313,
                 "owner": "Kotlin",
                 "repo": "kotlinx.serialization",
-                "stars": 5943,
+                "stars": 5942,
                 "topics": [
                   "cbor",
                   "json",
@@ -4010,7 +4010,7 @@
                 "open_issues": 339,
                 "owner": "Kotlin",
                 "repo": "kotlinx.coroutines",
-                "stars": 13807,
+                "stars": 13808,
                 "topics": [
                   "async",
                   "coroutines",
@@ -4479,8 +4479,8 @@
                 "id": 201684760,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T11:03:25Z",
-                "open_issues": 73,
+                "last_commit": "2026-08-29T08:39:33Z",
+                "open_issues": 71,
                 "owner": "coil-kt",
                 "repo": "coil",
                 "stars": 11882,
@@ -5362,7 +5362,7 @@
                 "open_issues": 2,
                 "owner": "patrykandpatrick",
                 "repo": "vico",
-                "stars": 3159,
+                "stars": 3158,
                 "topics": [
                   "android",
                   "android-library",
@@ -5763,8 +5763,8 @@
                 "id": 792741661,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-08-28T09:38:59Z",
-                "open_issues": 13,
+                "last_commit": "2026-08-29T05:49:41Z",
+                "open_issues": 15,
                 "owner": "composablehorizons",
                 "repo": "compose-unstyled",
                 "stars": 1215,
@@ -5829,7 +5829,7 @@
                 "open_issues": 14,
                 "owner": "compose-fluent",
                 "repo": "compose-fluent-ui",
-                "stars": 727,
+                "stars": 728,
                 "topics": [
                   "compose",
                   "compose-multiplatform",
@@ -6072,7 +6072,7 @@
                 "open_issues": 2,
                 "owner": "linreal",
                 "repo": "cascade-editor",
-                "stars": 188,
+                "stars": 189,
                 "topics": [
                   "android",
                   "block-editor",
@@ -6286,7 +6286,7 @@
                 "id": 710434447,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T21:47:23Z",
+                "last_commit": "2026-08-29T07:39:09Z",
                 "open_issues": 5,
                 "owner": "chrisbanes",
                 "repo": "haze",
@@ -7353,7 +7353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:15:43.962Z",
+    "last_updated": "2026-08-29T08:40:35.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list that curates the best Kotlin Multiplatform libraries, tools and more. ",
